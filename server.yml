@@ -1,35 +1,18 @@
-# server.yml - Configuração do servidor DayZ
-ServerName: "CodigoVermelho"
-DisplayName: "CodigoVermelho PVP - Jhonatan"
+# server.yml - Configurações de Identidade e Comportamento
+# Este arquivo agora é focado em METADADOS do servidor.
 
-Git:
-  ClientRepo: "https://github.com/Admin-Games-Hepta/DayZ_Settings_externo_54815297_CodigoVermelho.git"
+ServerID: "codigo_vermelho_ext" # Deve bater com o ID no clients-registry.yml
+DisplayName: "CodigoVermelho - Jonathan"
 
-Paths:
-  ServerRoot: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho"
+# O Framework usará estes nomes para calcular os caminhos dinamicamente
+ServerSettings:
+  mission_name: "dayzOffline.chernarusplus"
   
-  Missions:
-    Path: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\mpmissions\dayzOffline.chernarusplus"
-    Storage: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\mpmissions\dayzOffline.chernarusplus\storage_1"
-  
-  Profiles:
-    Path: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles"
-    ATM: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles\ExpansionMod\ATM"
-    PlayerData: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles\ExpansionMod\Quests\PlayerData"
-  
-  ConfigFiles:
-    - "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\omega.cfg"
-    - "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\serverDZ.cfg"
-
-Backup:
-  VersionRoot: "\\truenas.heptagames.local\wh001\DayZ-Versions\Jonathan_CodigoVermelho"
-
-Service:
-  StartURL: "http://localhost:8081/start"
-  StopURL: "http://localhost:8081/stop"
+  # Pastas dentro de 'profiles' que o framework deve limpar no WIPE
+  wipe_custom_folders:
+    - "AC/Modules/Banking"
 
 Metadata:
-  client_type: "externo"
   game: "DayZ"
-  created: "2026-01-13"
-  last_updated: "2026-01-13"
+  client_type: "externo"
+  last_updated: "2026-01-22"
