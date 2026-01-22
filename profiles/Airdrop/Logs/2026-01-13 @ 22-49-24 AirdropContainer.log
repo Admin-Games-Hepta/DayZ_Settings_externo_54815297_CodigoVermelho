@@ -1,0 +1,35 @@
+2026-01-13 @ 22-49-24:  [AirdropContainerBase] Container Update Started.
+2026-01-13 @ 22-49-24:  [AirdropContainerBase] Synch Vars Registered.
+2026-01-13 @ 22-49-24:  [AirdropContainerBase] Container created.
+2026-01-13 @ 22-49-24:  [InitializeContainer] Winds: Vector <9.721903, 0.000000, -1.935760>, Speed 9.91275mps, Strength 0.1
+2026-01-13 @ 22-49-24:  [InitializeContainer] Parachute created on @ <5801.576660, 453.900360, 7794.512695>
+2026-01-13 @ 22-49-57:  [EOnSimulate] Airdrop Container Touchdown @ <5801.708008, 319.699188, 7794.512695>
+2026-01-13 @ 22-49-57:  [EOnSimulate] Airdrop Container Move Deactivated.
+2026-01-13 @ 22-49-57:  [ADU_RemoveParachute] Parachute removed.
+2026-01-13 @ 22-49-57:  [ADU_RepositionContainer] Touchdown on Terrain.
+2026-01-13 @ 22-49-57:  [ADU_RepositionContainer] Container Repositioned.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+2026-01-13 @ 22-49-57:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] BakedBeansCan (Printine) @ <5800.785645, 316.941864, 7792.747559> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <5802.768066, 316.775604, 7794.776855> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] PowderedMilk (Printine) @ <5803.150391, 316.748901, 7795.665039> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] PowderedMilk (Printine) @ <5801.749512, 316.880280, 7797.440430> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Spawn failed for item [5] 'Mossin9130', does not exist in DayZ!
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] AKM (Printine) @ <5802.794922, 316.787201, 7796.856445> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] FNX45 (Worn) @ <5798.802734, 317.125153, 7794.954102> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Printine) @ <5799.979004, 317.021759, 7794.982910> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Printine) @ <5803.012207, 316.748474, 7791.958496> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Printine) @ <5799.639160, 317.053070, 7795.338867> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x54_20Rnd (Printine) @ <5803.527344, 316.714203, 7795.283203> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <5799.742188, 317.038177, 7793.880859> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] M4A1 (Printine) @ <5799.392578, 317.073669, 7795.052734> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] BakedBeansCan (Printine) @ <5803.102051, 316.755127, 7795.979980> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Rice (Printine) @ <5799.170898, 317.096985, 7796.008301> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <5802.785645, 316.771637, 7794.197266> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] FNX45 (Worn) @ <5799.847656, 317.039520, 7796.527832> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Printine) @ <5800.258301, 316.988678, 7792.853027> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Printine) @ <5800.984863, 316.928131, 7793.694824> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  [ADU_SpawnItems] Loot Spawned [0] Mag_AKM_30Rnd (Printine) @ <5799.492676, 317.068481, 7795.960449> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 22-49-57:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 23-49-24:  [~AirdropContainerBase] Container Destroyed.
+2026-01-13 @ 23-49-24:  [~AirdropContainerBase] Container log file closed.

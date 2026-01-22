@@ -1,0 +1,20 @@
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Aircraft Initialized: 1 / 1
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Aircraft created on 2026-01-13 @ 22-46-57
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Zombie list 'Country' was found containing 41 zombies.
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Spawning Requested Zombies (5).
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Lifespan: Overriden to 60 minute(s).
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Number of Zombies to spawn: 5.
+2026-01-13 @ 22-46-57:  [InitializeAirDropAircraft] Aircraft Initialized: Stary Sobor @ 5823/7764 (true)
+2026-01-13 @ 22-46-57:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 22-47-26:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_HikerSkinny_Grey @ <5810.641113, 316.947723, 7832.670410>
+2026-01-13 @ 22-47-55:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_VillagerOld_White @ <5888.482910, 309.146973, 7817.570313>
+2026-01-13 @ 22-48-24:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_HunterOld_Summer @ <5845.385254, 313.584045, 7833.052734>
+2026-01-13 @ 22-48-54:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_FarmerFat_Green @ <5849.254395, 313.776947, 7838.081055>
+2026-01-13 @ 22-49-04:  [EOnBeforeDrop] The Aircraft is 1 Km from Stary Sobor, from the North/East (057°). PS @ <7063.148438, 522.559570, 8607.564453>
+2026-01-13 @ 22-49-24:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 22-49-24:  [EOnDrop] Drop spawned with 5 infected at <5801.576660, 453.900360, 7794.512695>.
+2026-01-13 @ 22-49-24:  [EOnDrop] Supplies have been dropped near Stary Sobor. RS
+2026-01-13 @ 22-50-53:  [EOnBeforeDelete] Aircraft despawned @ <9.554710, 286.169464, 4061.962646>
+2026-01-13 @ 22-50-53:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2026-01-13 @ 22-50-53:  [~AirdropPlane] Aircraft destroyed.
+2026-01-13 @ 22-50-53:  [~AirdropPlane] Aircraft log file closed.

@@ -1,0 +1,108 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles\script_2026-01-19_16-41-09.log started at 19.01. 16:41:09
+
+SCRIPT    (W): @"AC-Mod-Pack/JKrRoUTBxkHlgtio/鬻骥瀚麒鬣齉蠲囔骥蠡鬟麟巉/0vG9F5CpSxx AG3/AUX///////./NUL/{DFDF76A2-C82A-4D63-906A-5644AC457385}/CE154F7.p3d,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/CvxVfePt/躞攥镴黩镴曦瀛孀鳙/m93AhpQTub7s/NUL/PRN///////./{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}/ADE7AD1.jpg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT       : Registered 392 temporary action enum(s), UAN==392
+SCRIPT    (W): @"AC-Mod-Pack/SGbOqCnslOKpJCG/攮鏖鬟齉鳜谶蠡躅攮攘颦蠡麟鳙麟/{B94237E7-57AC-4347-9151-B08C6C32D1F7}///////PRN/./NUL/nHXPd 126YRDlB/B8C892E.jpg,1": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"AC-Mod-Pack/AMZzTtwd/襻蠹蘸鑫鳢躅艨鼹鏖瀚/{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}/.///////COM7/wIKt05Rw/NUL/1019ECD.paa,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/pcpQvLiZu/攥黥鼙麝颦醴黧躜镳/{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}/CON///////./NUL/eCMtEQHj/9C5253D.xob,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/pcpQvLiZu/攥黥鼙麝颦醴黧躜镳/{3EB685DB-65F9-4CF6-A03A-E3EF65729F3D}/CON///////./NUL/eCMtEQHj/9C5253D.xob,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/zPkxzGOWmtM/饕攫瀛艨鳓蠲囔鐾镵鳔趱/{B250C668-F57D-4EE1-A63C-290EE7D1AA1F}/COM3///////./NUL/66qQ2aiugFKmV0D/FE612F5.p3d,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/zPkxzGOWmtM/饕攫瀛艨鳓蠲囔鐾镵鳔趱/{B250C668-F57D-4EE1-A63C-290EE7D1AA1F}/COM3///////./NUL/66qQ2aiugFKmV0D/FE612F5.p3d,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/HsowdtlIyRIVZudA/爨瓘孀馕躐躞髑曩饔蘸/{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}/./LPT7/NUL///////vZVZ2FpfFPp/8C3AF0A.ptc,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/SGbOqCnslOKpJCG/攮鏖鬟齉鳜谶蠡躅攮攘颦蠡麟鳙麟/{B94237E7-57AC-4347-9151-B08C6C32D1F7}///////PRN/./NUL/nHXPd 126YRDlB/B8C892E.jpg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/SGbOqCnslOKpJCG/攮鏖鬟齉鳜谶蠡躅攮攘颦蠡麟鳙麟/{B94237E7-57AC-4347-9151-B08C6C32D1F7}///////PRN/./NUL/nHXPd 126YRDlB/B8C892E.jpg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/SGbOqCnslOKpJCG/攮鏖鬟齉鳜谶蠡躅攮攘颦蠡麟鳙麟/{B94237E7-57AC-4347-9151-B08C6C32D1F7}///////PRN/./NUL/nHXPd 126YRDlB/B8C892E.jpg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/SGbOqCnslOKpJCG/攮鏖鬟齉鳜谶蠡躅攮攘颦蠡麟鳙麟/{B94237E7-57AC-4347-9151-B08C6C32D1F7}///////PRN/./NUL/nHXPd 126YRDlB/B8C892E.jpg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/lDYSqSmNJKBiNEwZ/攘璺麟骥羸瀚镳鳜羼懿颦襦///////COM4/IYpkJV39w/./NUL/{18989B1D-99B5-455B-841C-AB7C74E4DDFC}/0C3ED41.c,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/lDYSqSmNJKBiNEwZ/攘璺麟骥羸瀚镳鳜羼懿颦襦///////COM4/IYpkJV39w/./NUL/{18989B1D-99B5-455B-841C-AB7C74E4DDFC}/0C3ED41.c,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/zeUgVVtoT/黩瓘骧攮羼矍攫瀣鳕鬟镳鳓爝鳢/{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}/nk Z5rUWwfzNoG87/./COM5/NUL///////D7F2BC1.p3d,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/zeUgVVtoT/黩瓘骧攮羼矍攫瀣鳕鬟镳鳓爝鳢/{F7F1ED05-9F6D-47A2-AAAE-29D317C6F066}/nk Z5rUWwfzNoG87/./COM5/NUL///////D7F2BC1.p3d,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/NIsxAfCwwg/鳙躜攮鳗谶麟馕鬣骥艨鼯鬟蘩酆///////VHwhhJcbCOTihlj/{82A74AEB-AEB4-465C-A014-D097EE346D63}/./NUL/AUX/B1D5182.sqf,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModParty/Game/schana_party_marker_manager_client.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       :  ______     ______        __    __     ______     _____        ______   ______     ______     __  __     
+SCRIPT       : /\  __ \   /\  ___\      /\ "-./  \   /\  __ \   /\  __-.     /\  == \ /\  __ \   /\  ___\   /\ \/ /     
+SCRIPT       : \ \  __ \  \ \ \____     \ \ \-./\ \  \ \ \/\ \  \ \ \/\ \    \ \  _-/ \ \  __ \  \ \ \____  \ \  _"-.   
+SCRIPT       :  \ \_\ \_\  \ \_____\     \ \_\ \ \_\  \ \_____\  \ \____-     \ \_\    \ \_\ \_\  \ \_____\  \ \_\ \_\  
+SCRIPT       :   \/_/\/_/   \/_____/      \/_/  \/_/   \/_____/   \/____/      \/_/     \/_/\/_/   \/_____/   \/_/\/_/  
+SCRIPT       :  
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"TM/Trader/scripts/4_World/wallet.c,9": Missing ';' at the end of line
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"MuchFramework/scripts/4_World/muchframework\entities\base\openable_base.c,189": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"MuchStuffPack/MSP_Garden_Data/scripts/4_World/greenhouse\greenhouse_base.c,173": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,64": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/bankingmenu.c,84": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,47": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,75": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"DC_Banking/Scripts/4_World/banking.c,112": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"MuchFramework/scripts/4_World/muchframework\virtualstorage\definitions.c,274": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,151": FIX-ME: Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"AC-Mod-Pack/nLcjSLnGJbK/爝鼯艨攥鼙鳕颦纂镵曩霾麒鳟///////./cd9a1g2aho BjY/{352481E8-33BE-4251-BA85-6007CAEDCF9D}/AUX/NUL/997869C.jpg,1": 'WaterAllSlots' is obsolete: No replacement
+SCRIPT    (W): @"AC-Mod-Pack/dQvniUczL/蠹艨魑醺蠡瓘缵巉氍纛瀣蠹/./{F38BF404-1D43-42F2-9305-67DE0B28FC23}/NUL/LPT6///////ZGgSf d07nyQYjkp/1BECC0F.layout,1": FIX-ME: Syntax error
+SCRIPT    (W): @"AC-Mod-Pack/dQvniUczL/蠹艨魑醺蠡瓘缵巉氍纛瀣蠹/./{F38BF404-1D43-42F2-9305-67DE0B28FC23}/NUL/LPT6///////ZGgSf d07nyQYjkp/1BECC0F.layout,1": FIX-ME: Syntax error
+SCRIPT    (W): @"AC-Mod-Pack/nUYHYXbZgrig/灞缵鳔蠹颧㸆巉鳜曦颦///////NUL/COM9/./cShz4ZjsAwkq/{EE32E446-31CA-4ABA-814F-A5EBD2FD6D5E}/9AAC6F9.rtm,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/nUYHYXbZgrig/灞缵鳔蠹颧㸆巉鳜曦颦///////NUL/COM9/./cShz4ZjsAwkq/{EE32E446-31CA-4ABA-814F-A5EBD2FD6D5E}/9AAC6F9.rtm,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/nUYHYXbZgrig/灞缵鳔蠹颧㸆巉鳜曦颦///////NUL/COM9/./cShz4ZjsAwkq/{EE32E446-31CA-4ABA-814F-A5EBD2FD6D5E}/9AAC6F9.rtm,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/bGYjhsjVpilBbwc/戆蠲羸蠡鳔曩鳗爨躐礴/NUL/{F38BF404-1D43-42F2-9305-67DE0B28FC23}/CON/.///////X7dzkMdWgPN6/D7CFF33.edds,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/nDszShYuKrntewsm/衢矍馕麝鼙霰蠡鳙鐾穰骧襻/./ry6KLok3hl5/{2400183A-6185-49FB-A2D8-4A392A602BA3}/NUL///////CON/322C074.ogg,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/oYBZAcAKNs/鳗鬻鑫穰鐾躅黧麟蠹霾/NUL///////cxsSOFBSP7Ryj/./PRN/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}/A2F694B.ptc,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/oYBZAcAKNs/鳗鬻鑫穰鐾躅黧麟蠹霾/NUL///////cxsSOFBSP7Ryj/./PRN/{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}/A2F694B.ptc,1": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"AC-Mod-Pack/RuWSaTfUNngyzUz/鳗躐鬟醺鬣鼹囔鳟镳/PHon0rMHD5f4oDU/{82A5EA35-D9CD-47C5-9629-E15D2F714E6E}/NUL/.///////LPT5/A88D619.xyz,1": FIX-ME: Method argument can't be strong reference
+SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+SCRIPT       : Initializing plugin: MuchFramework Proxies Config
+SCRIPT       : [MuchFramework Proxies Config] '$profile:/MuchFramework/Proxies_Config.json' found, loading existing config!
+SCRIPT       : Initializing plugin: MF Codelock Config
+SCRIPT       : [MF Codelock Config] '$profile:/MuchFramework/MF_CodeLockConfig.json' found, loading existing config!
+SCRIPT       : Initializing plugin: MuchFramework General Settings Config
+SCRIPT       : [MuchFramework General Settings Config] '$profile:/MuchFramework/Settings.json' found, loading existing config!
+SCRIPT       : Initializing plugin: PluginTraderServerLog<3b0c02f0>
+SCRIPT       : Initializing plugin: PluginTraderTradesLog<3b0be4b0>
+SCRIPT       : [SchanaParty] BasicMap Register RPCs
+SCRIPT       : [SchanaParty] BasicMap Server Init
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [SchanaParty] OnInit
+SCRIPT       : [SchanaParty] Server Init 1.4.0
+SCRIPT       : [SchanaParty] PartyMarker Server Init
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'CodigoVermelhoEmContrucao'
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : PluginTraderServerLog<3b0c02f0> Closed
+SCRIPT       : PluginTraderTradesLog<3b0be4b0> Closed
+SCRIPT       : ~DayZGame()
+SCRIPT    (E): NULL pointer to instance
+Class:      'SchanaPartyManagerServer'
+Function: '~SchanaPartyManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_manager_server.c:31 Function ~SchanaPartyManagerServer
+SCRIPT    (E): NULL pointer to instance
+Class:      'SchanaPartyMarkerManagerServer'
+Function: '~SchanaPartyMarkerManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_marker_manager_server.c:14 Function ~SchanaPartyMarkerManagerServer

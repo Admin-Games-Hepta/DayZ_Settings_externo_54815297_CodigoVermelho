@@ -1,0 +1,36 @@
+2026-01-13 @ 21-53-24:  [AirdropContainerBase] Container Update Started.
+2026-01-13 @ 21-53-24:  [AirdropContainerBase] Synch Vars Registered.
+2026-01-13 @ 21-53-24:  [AirdropContainerBase] Container created.
+2026-01-13 @ 21-53-24:  [InitializeContainer] Winds: Vector <-5.414960, 0.000000, -5.137165>, Speed 7.46406mps, Strength 0.1
+2026-01-13 @ 21-53-24:  [InitializeContainer] Parachute created on @ <5057.148438, 162.733429, 2475.341553>
+2026-01-13 @ 21-54-01:  [EOnSimulate] Airdrop Container Touchdown @ <5057.148438, 11.733429, 2474.972900>
+2026-01-13 @ 21-54-01:  [EOnSimulate] Airdrop Container Move Deactivated.
+2026-01-13 @ 21-54-01:  [ADU_RemoveParachute] Parachute removed.
+2026-01-13 @ 21-54-01:  [ADU_RepositionContainer] Touchdown on Terrain.
+2026-01-13 @ 21-54-01:  [ADU_RepositionContainer] Container Repositioned.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+2026-01-13 @ 21-54-01:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x54_20Rnd (Worn) @ <5055.852051, 8.924045, 2474.304443> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Worn) @ <5056.985840, 8.943369, 2473.577393> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] TacticalBaconCan (Worn) @ <5056.245605, 8.842549, 2477.582275> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <5056.000977, 8.868055, 2475.742188> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] Izh18 (Printine) @ <5056.579590, 8.849217, 2476.206299> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Worn) @ <5057.608887, 8.819319, 2476.692871> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Redpunk (Worn) @ <5059.554688, 8.787432, 2475.304932> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Printine) @ <5058.534668, 8.791731, 2477.196777> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] LargeTent (Printine) @ <5058.662109, 8.797338, 2476.383789> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] Mag_STANAG_30Rnd (Printine) @ <5054.735352, 8.980475, 2473.489258> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] CombatBoots_Grey (Printine) @ <5056.731934, 8.842365, 2476.505615> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] TacticalBaconCan (Printine) @ <5059.677734, 8.784262, 2475.325195> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] LargeTent (Printine) @ <5057.007813, 8.926362, 2473.834961> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Printine) @ <5056.298828, 8.862851, 2475.559570> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AKM (Worn) @ <5057.881348, 8.914410, 2473.694092> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] LandMineTrap (Printine) @ <5057.458984, 8.919555, 2473.772217> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] M4A1 (Printine) @ <5057.935547, 8.920100, 2473.584961> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Worn) @ <5054.767090, 8.901086, 2475.857178> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Worn) @ <5056.493652, 8.929647, 2473.976318> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Loot Spawned [0] FNX45 (Worn) @ <5057.750977, 9.018979, 2472.051758> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  [ADU_SpawnItems] Airdrop Flare Spawned @ <5055.581543, 8.865621, 2476.913818> ... Lifespan:  Set to 60 minutes.
+2026-01-13 @ 21-54-01:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-01-13 @ 22-53-24:  [~AirdropContainerBase] Container Destroyed.
+2026-01-13 @ 22-53-24:  [~AirdropContainerBase] Container log file closed.

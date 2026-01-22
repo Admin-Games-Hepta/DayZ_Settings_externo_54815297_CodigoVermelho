@@ -1,0 +1,35 @@
+# server.yml - Configuração do servidor DayZ
+ServerName: "CodigoVermelho"
+DisplayName: "CodigoVermelho PVP - Jhonatan"
+
+Git:
+  ClientRepo: "https://github.com/Admin-Games-Hepta/DayZ_Settings_externo_54815297_CodigoVermelho.git"
+
+Paths:
+  ServerRoot: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho"
+  
+  Missions:
+    Path: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\mpmissions\dayzOffline.chernarusplus"
+    Storage: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\mpmissions\dayzOffline.chernarusplus\storage_1"
+  
+  Profiles:
+    Path: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles"
+    ATM: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles\ExpansionMod\ATM"
+    PlayerData: "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\profiles\ExpansionMod\Quests\PlayerData"
+  
+  ConfigFiles:
+    - "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\omega.cfg"
+    - "C:\Users\Administrator\Desktop\DayZ-Server\servers\CodigoVermelho\serverDZ.cfg"
+
+Backup:
+  VersionRoot: "\\truenas.heptagames.local\wh001\DayZ-Versions\Jonathan_CodigoVermelho"
+
+Service:
+  StartURL: "http://localhost:8081/start"
+  StopURL: "http://localhost:8081/stop"
+
+Metadata:
+  client_type: "externo"
+  game: "DayZ"
+  created: "2026-01-13"
+  last_updated: "2026-01-13"

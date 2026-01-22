@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] Current File was deleted.
+[ExportDropZones] Exporting 13 DropZone coordinates.
+[ExportDropZones] DropZone coordinates exported to VPP Map file.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2026-01-13 @ 21-50-53] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Balota @ <5043.000000, 2438.000000, 2505.000000>
+[EOnCallAirdrop] DropPoint Assigned: <5093.099121, 8.254393, 2493.900879> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Eastern (SW2) border @ <15360.000000, 2438.000000, 7948.367676>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.485492° / 62.1834°, Text: 'North/East (062°)'
+[EOnCallAirdrop] Aircraft Dispatched to Balota (15360/7948.37), from the North/East (062°).
+[EOnCallAirdrop] Next Scehduled Drop: 55 minutes (60/±5) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2026-01-13 @ 22-46-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Stary Sobor @ <5823.000000, 2438.000000, 7764.000000>
+[EOnCallAirdrop] DropPoint Assigned: <5849.194824, 312.832153, 7826.432617> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NW2) border @ <15360.000000, 2438.000000, 13954.644531>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.575755° / 57.0116°, Text: 'North/East (057°)'
+[EOnCallAirdrop] Aircraft Dispatched to Stary Sobor (15360/13954.6), from the North/East (057°).
+[EOnCallAirdrop] Next Scehduled Drop: 58 minutes (60/±5) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!

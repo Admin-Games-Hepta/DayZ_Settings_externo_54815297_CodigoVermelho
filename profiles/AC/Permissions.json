@@ -1,0 +1,18 @@
+{
+    "m_Groups": [
+        {
+            "m_Name": "superadmin",
+            "m_ForceName": 0,
+            "m_Users": [
+                {
+                    "m_Name": "Player Name",
+                    "m_Steam": "00000000000000000"
+                }
+            ],
+            "m_Permissions": [
+                "root"
+            ]
+        }
+    ],
+    "m_Everyone": []
+}
