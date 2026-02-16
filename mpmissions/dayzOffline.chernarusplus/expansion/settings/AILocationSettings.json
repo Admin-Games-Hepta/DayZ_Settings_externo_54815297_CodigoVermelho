@@ -1,0 +1,6577 @@
+{
+  "m_Version": 3,
+  "RoamingLocations": [
+    {
+      "Name": "Settlement_Chernogorsk",
+      "Position": [
+        6778.61914,
+        0,
+        2321.77393
+      ],
+      "Radius": 1000.0,
+      "Type": "Capital",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Novodmitrovsk",
+      "Position": [
+        11339.7695,
+        0,
+        14391.0498
+      ],
+      "Radius": 1000.0,
+      "Type": "Capital",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Novoselki",
+      "Position": [
+        6115.91016,
+        0,
+        3256.36011
+      ],
+      "Radius": 200.0,
+      "Type": "Suburb",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dubovo",
+      "Position": [
+        6754.50977,
+        0,
+        3595.25708
+      ],
+      "Radius": 200.0,
+      "Type": "Suburb",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vysotovo",
+      "Position": [
+        5701.24023,
+        0,
+        2556.11011
+      ],
+      "Radius": 200.0,
+      "Type": "Suburb",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Zelenogorsk",
+      "Position": [
+        2796,
+        0,
+        5166
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Berezino",
+      "Position": [
+        12372.3828,
+        0,
+        9760.98145
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Elektrozavodsk",
+      "Position": [
+        10286.6797,
+        0,
+        1992.77002
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_NovayaPetrovka (Novaya Petrovka)",
+      "Position": [
+        3477.16895,
+        0,
+        12931.2432
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Gorka",
+      "Position": [
+        9524,
+        0,
+        8945
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Solnechny",
+      "Position": [
+        13487.7236,
+        0,
+        6225.88379
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_StarySobor (Stary Sobor)",
+      "Position": [
+        6114,
+        0,
+        7849
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vybor",
+      "Position": [
+        3909.83105,
+        0,
+        9019.61426
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Severograd",
+      "Position": [
+        8168.48389,
+        0,
+        12573.6016
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Bor",
+      "Position": [
+        3316.40601,
+        0,
+        4070.96606
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Svetloyarsk",
+      "Position": [
+        13989.7402,
+        0,
+        13263.7803
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Krasnostav",
+      "Position": [
+        11203.167,
+        0,
+        12340.8076
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_ChernayaPolyana (Chernaya Polyana)",
+      "Position": [
+        12158.54,
+        0,
+        13770.2197
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Polyana",
+      "Position": [
+        10794,
+        0,
+        8160
+      ],
+      "Radius": 500.0,
+      "Type": "City",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Tulga",
+      "Position": [
+        12768,
+        0,
+        4384
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Msta",
+      "Position": [
+        11333.79,
+        0,
+        5421.3999
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Staroye",
+      "Position": [
+        10212.5195,
+        0,
+        5385.0498
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Shakhovka",
+      "Position": [
+        9728.63965,
+        0,
+        6567.2998
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dolina",
+      "Position": [
+        11285.1699,
+        0,
+        6633.58008
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Orlovets",
+      "Position": [
+        12250,
+        0,
+        7253
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_NovySobor (Novy Sobor)",
+      "Position": [
+        7123.62988,
+        0,
+        7774.62988
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kabanino",
+      "Position": [
+        5300.70996,
+        0,
+        8645.90039
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Mogilevka",
+      "Position": [
+        7650.41016,
+        0,
+        5096.45996
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Nadezhdino",
+      "Position": [
+        5894,
+        0,
+        4780
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Guglovo",
+      "Position": [
+        8445,
+        0,
+        6579
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kamyshovo",
+      "Position": [
+        12170,
+        0,
+        3458
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Pusta",
+      "Position": [
+        9197,
+        0,
+        3873
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dubrovka",
+      "Position": [
+        10324.2988,
+        0,
+        9888.2373
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_VyshnayaDubrovka (Vyshnaya Dubrovka)",
+      "Position": [
+        9926.82324,
+        0,
+        10468.9189
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Khelm",
+      "Position": [
+        12329.2695,
+        0,
+        10771.0098
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Olsha",
+      "Position": [
+        13402,
+        0,
+        12898
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Gvozdno",
+      "Position": [
+        8644.75098,
+        0,
+        11934.1152
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Grishino",
+      "Position": [
+        5980,
+        0,
+        10257
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Rogovo",
+      "Position": [
+        4802,
+        0,
+        6748
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Pogorevka",
+      "Position": [
+        4445,
+        0,
+        6322
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Pustoshka",
+      "Position": [
+        3137.94409,
+        0,
+        7890.9248
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kozlovka",
+      "Position": [
+        4402,
+        0,
+        4736
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Karmanovka",
+      "Position": [
+        12700.6279,
+        0,
+        14691.3115
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Balota",
+      "Position": [
+        4527.58008,
+        0,
+        2465.32007
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Komarovo",
+      "Position": [
+        3702,
+        0,
+        2440
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kamenka",
+      "Position": [
+        1981,
+        0,
+        2207
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Myshkino",
+      "Position": [
+        2048,
+        0,
+        7258
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Pavlovo",
+      "Position": [
+        1693.97998,
+        0,
+        3858.6499
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Lopatino",
+      "Position": [
+        2801,
+        0,
+        10029
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vyshnoye",
+      "Position": [
+        6629,
+        0,
+        6051
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Prigorodki",
+      "Position": [
+        7760,
+        0,
+        3336
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Drozhino",
+      "Position": [
+        3374,
+        0,
+        4861
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Sosnovka",
+      "Position": [
+        2556,
+        0,
+        6307
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Nizhneye",
+      "Position": [
+        12824.8799,
+        0,
+        8097.7002
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Pulkovo",
+      "Position": [
+        5015,
+        0,
+        5607
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Berezhki",
+      "Position": [
+        15020,
+        0,
+        13905
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Turovo",
+      "Position": [
+        13630,
+        0,
+        14146
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_BelayaPolyana (Belaya Polyana)",
+      "Position": [
+        14166,
+        0,
+        14968
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dobroye",
+      "Position": [
+        12996,
+        0,
+        15066
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Nagornoye",
+      "Position": [
+        9286,
+        0,
+        14677
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Svergino",
+      "Position": [
+        9493.51953,
+        0,
+        13875.2695
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Ratnoye",
+      "Position": [
+        6195.87793,
+        0,
+        12761.8018
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kamensk",
+      "Position": [
+        6748.74121,
+        0,
+        14430.0459
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Krasnoye",
+      "Position": [
+        6411.37402,
+        0,
+        15029.9609
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_StaryYar (Stary Yar)",
+      "Position": [
+        4987.85986,
+        0,
+        14992.9756
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Polesovo",
+      "Position": [
+        5955.73682,
+        0,
+        13558.0459
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Tisy",
+      "Position": [
+        3441.6499,
+        0,
+        14799.5498
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Topolniki",
+      "Position": [
+        2913.74512,
+        0,
+        12366.3574
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Zaprudnoye",
+      "Position": [
+        5214,
+        0,
+        12792
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Sinystok",
+      "Position": [
+        1538.27795,
+        0,
+        11904.5781
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vavilovo",
+      "Position": [
+        2263,
+        0,
+        11103
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kumyrna",
+      "Position": [
+        8300,
+        0,
+        6054
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kalinovka",
+      "Position": [
+        7448,
+        0,
+        13406
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Bogatyrka",
+      "Position": [
+        1453.62,
+        0,
+        8870.91992
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_SvyatoyRomanSkiResort (Svyatoy-Roman Ski Resort)",
+      "Position": [
+        638,
+        0,
+        11667
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_SKVSChBiathlonArena (SKVSCh Biathlon Arena)",
+      "Position": [
+        357,
+        0,
+        11142
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Zvir",
+      "Position": [
+        577.330017,
+        0,
+        5317.41992
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Zabolotye",
+      "Position": [
+        1256.85901,
+        0,
+        9993.25977
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Galkino",
+      "Position": [
+        1102.68005,
+        0,
+        8798.26953
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Arsenovo",
+      "Position": [
+        8509.66113,
+        0,
+        13918.6279
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Stroytel",
+      "Position": [
+        7017.62988,
+        0,
+        4365.20996
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Romashka",
+      "Position": [
+        8177.60205,
+        0,
+        10980.2891
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Kometa",
+      "Position": [
+        10271.6973,
+        0,
+        3558.22803
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Druzhba",
+      "Position": [
+        11437,
+        0,
+        10695
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Nadezhda",
+      "Position": [
+        7279.96777,
+        0,
+        7014.3501
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_YouthPioneer (Youth Pioneer)",
+      "Position": [
+        11155.8252,
+        0,
+        7074.14307
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_ProudChernarus (Proud Chernarus)",
+      "Position": [
+        3199.61694,
+        0,
+        6174.93213
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Shkolnik",
+      "Position": [
+        14856.5029,
+        0,
+        14571.0283
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Pobeda",
+      "Position": [
+        3703.38208,
+        0,
+        14876.3838
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Camp_Metalurg",
+      "Position": [
+        1035.40601,
+        0,
+        6677.38281
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Zelenayagora (Zelenaya gora)",
+      "Position": [
+        3767.16992,
+        0,
+        6010.54004
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Dichina",
+      "Position": [
+        4618,
+        0,
+        7821
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Novylug (Novy lug)",
+      "Position": [
+        9251,
+        0,
+        11360
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Staryeluga (Starye luga)",
+      "Position": [
+        6919,
+        0,
+        8995
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Vysota",
+      "Position": [
+        6591.62988,
+        0,
+        3400
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Kopyto",
+      "Position": [
+        7871.479,
+        0,
+        3869.10205
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Grubyeskaly (Grubye skaly)",
+      "Position": [
+        13115.0596,
+        0,
+        11900
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Chernyles (Cherny les)",
+      "Position": [
+        9031,
+        0,
+        7803
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Altar",
+      "Position": [
+        8143.3999,
+        0,
+        9159.67969
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_RadioZenit (Radio Zenit)",
+      "Position": [
+        8080.00977,
+        0,
+        9341.67969
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_PikKozlova (Pik Kozlova)",
+      "Position": [
+        8850.16992,
+        0,
+        2880.53003
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Pustoykhrebet (Pustoy khrebet)",
+      "Position": [
+        10890,
+        0,
+        5665
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Bashnya",
+      "Position": [
+        4178.27002,
+        0,
+        11771.2197
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Veresnik",
+      "Position": [
+        4440.16992,
+        0,
+        8070.54004
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Kurgan",
+      "Position": [
+        3368.52002,
+        0,
+        5296.87012
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Kustryk",
+      "Position": [
+        4912.87988,
+        0,
+        5063.4502
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Vetryanayagora (Vetryanaya gora)",
+      "Position": [
+        3892.73999,
+        0,
+        4200.58984
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Kalmyk",
+      "Position": [
+        6903.77979,
+        0,
+        4919.66016
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_PopIvan (Pop Ivan)",
+      "Position": [
+        6420.25977,
+        0,
+        6570.66016
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Erbenka",
+      "Position": [
+        2842.91602,
+        0,
+        4014.81104
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Lesnoykhrebet (Lesnoy khrebet)",
+      "Position": [
+        8122.77002,
+        0,
+        7815.54004
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Vysokiykamen (Vysokiy kamen)",
+      "Position": [
+        8940.19043,
+        0,
+        4380.52002
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Dobry",
+      "Position": [
+        10552.9004,
+        0,
+        3061.03003
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Baranchik",
+      "Position": [
+        10153.1475,
+        0,
+        6208.521
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Malinovka",
+      "Position": [
+        10897.7002,
+        0,
+        7575.58984
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Dubina",
+      "Position": [
+        11107.9004,
+        0,
+        8474.83008
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Klen",
+      "Position": [
+        11473.5107,
+        0,
+        11315.3926
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Chernayagora (Chernaya gora)",
+      "Position": [
+        10280.8164,
+        0,
+        12053.9277
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Zolotar",
+      "Position": [
+        10179,
+        0,
+        11998
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Ostry",
+      "Position": [
+        10792.7471,
+        0,
+        12829.5039
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Olsha",
+      "Position": [
+        12975.7002,
+        0,
+        12775.2002
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Marine_Rify",
+      "Position": [
+        13931.7305,
+        0,
+        11288.6104
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Chortovzamok (Chortov zamok)",
+      "Position": [
+        6883.23877,
+        0,
+        11501.2881
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Zub",
+      "Position": [
+        6574.27979,
+        0,
+        5573.8501
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Rog",
+      "Position": [
+        11267.2061,
+        0,
+        4293.03613
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Grozovypereval (Grozovy pereval)",
+      "Position": [
+        3318.12012,
+        0,
+        15250.5498
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Sosnovypereval (Sosnovy pereval)",
+      "Position": [
+        2687.3999,
+        0,
+        6590.27979
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_PerevalOreshka (Oreshka pereval)",
+      "Position": [
+        9822.19141,
+        0,
+        6088.79297
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Turovskiypereval (Turovskiy pereval)",
+      "Position": [
+        14674.2412,
+        0,
+        14089.3057
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Tridoliny (Tri doliny)",
+      "Position": [
+        12764.4697,
+        0,
+        5412.20996
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Grozovyedoly (Grozovye doly)",
+      "Position": [
+        10403.9824,
+        0,
+        14793.168
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Klyuch",
+      "Position": [
+        9282.57031,
+        0,
+        13476.6699
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Lysayagora (Lysaya gora)",
+      "Position": [
+        6722.45898,
+        0,
+        14050.4199
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Skalka",
+      "Position": [
+        5758,
+        0,
+        14486
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Vidy",
+      "Position": [
+        785.054016,
+        0,
+        14398.8154
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Tumannyverkh (Tumanny verkh)",
+      "Position": [
+        331.223999,
+        0,
+        12982.9902
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Adamovka",
+      "Position": [
+        5340.66016,
+        0,
+        11380.0098
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Shishok",
+      "Position": [
+        3559.31299,
+        0,
+        9422.26953
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Skalisty",
+      "Position": [
+        13715.4541,
+        0,
+        3118.78003
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Storozh",
+      "Position": [
+        2816.60107,
+        0,
+        1277.95996
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MysGolova (Mys Golova)",
+      "Position": [
+        8286.05273,
+        0,
+        2405.5979
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Drakon",
+      "Position": [
+        11191,
+        0,
+        2443
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Otmel",
+      "Position": [
+        11581.25,
+        0,
+        3213.23999
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MysKrutoy (Mys Krutoy)",
+      "Position": [
+        13578.1904,
+        0,
+        3976.82007
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Tokarnya",
+      "Position": [
+        8890.47754,
+        0,
+        5672.55322
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Ostrog",
+      "Position": [
+        2655.73389,
+        0,
+        2264.63208
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Maryanka",
+      "Position": [
+        2789,
+        0,
+        3386
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Polonina",
+      "Position": [
+        1004.48602,
+        0,
+        4242.86914
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Kalinka",
+      "Position": [
+        3346.5,
+        0,
+        11292.0967
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Kikimora",
+      "Position": [
+        1812,
+        0,
+        6200
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_BolshoyKotel (Bolshoy Kotel)",
+      "Position": [
+        714.648987,
+        0,
+        6520.43115
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Simurg",
+      "Position": [
+        134,
+        0,
+        7569.99023
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Volchiypik (Volchiy pik)",
+      "Position": [
+        320.253998,
+        0,
+        2719.26904
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Krona",
+      "Position": [
+        1493,
+        0,
+        9270.33984
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_TriKresta (Tri Kresta)",
+      "Position": [
+        301,
+        0,
+        9478
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Rostoki",
+      "Position": [
+        744.450012,
+        0,
+        8647.86035
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Makosh",
+      "Position": [
+        7849.72021,
+        0,
+        6480.18994
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Klenovyipereval (Klenovyi pereval)",
+      "Position": [
+        10862.7021,
+        0,
+        11585.5117
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Zmeinykhrebet (Zmeiny khrebet)",
+      "Position": [
+        11446.1699,
+        0,
+        13606.9199
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Sokol",
+      "Position": [
+        12001,
+        0,
+        14813
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Krutyeskaly (Krutye skaly)",
+      "Position": [
+        14880.6299,
+        0,
+        13671.7598
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Bogat",
+      "Position": [
+        7058.01123,
+        0,
+        12023.5713
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Dubnik",
+      "Position": [
+        3298.29004,
+        0,
+        10330.8896
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Viselitsa",
+      "Position": [
+        12722.1572,
+        0,
+        7504.0498
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Dazhbog",
+      "Position": [
+        6581,
+        0,
+        8590
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Medvezhilugi (Medvezhi lugi)",
+      "Position": [
+        9641,
+        0,
+        13236
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Voron",
+      "Position": [
+        13517.9297,
+        0,
+        3311.24512
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Ruin_Gnomovzamok (Gnomov zamok)",
+      "Position": [
+        7446.91504,
+        0,
+        9097.16992
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_KarerKrasnayaZarya (Karer Krasnaya Zarya)",
+      "Position": [
+        8565.34863,
+        0,
+        13418.6836
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Matveyevo",
+      "Position": [
+        4281,
+        0,
+        7380
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Kotka",
+      "Position": [
+        5873.7002,
+        0,
+        6883.24023
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_Chernyeskaly (Chernye skaly)",
+      "Position": [
+        3932.57202,
+        0,
+        14599.4961
+      ],
+      "Radius": 100.0,
+      "Type": "Local",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_SvyatoyRoman (Svyatoy roman)",
+      "Position": [
+        84.8320007,
+        0,
+        11901.2461
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Koman",
+      "Position": [
+        1660.65198,
+        0,
+        7415.66113
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Hill_Mayak",
+      "Position": [
+        12323.8135,
+        0,
+        4553.10693
+      ],
+      "Radius": 100.0,
+      "Type": "Hill",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_VMC (Military base VMC)",
+      "Position": [
+        4600,
+        0,
+        8291
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Tisy (Military base Tisy)",
+      "Position": [
+        1390,
+        0,
+        13840
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Kamensk (Military base Kamensk)",
+      "Position": [
+        7920,
+        0,
+        14730
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Zeleno (Military base Zeleno)",
+      "Position": [
+        2415.375,
+        0,
+        5160.68115
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Pavlovo (Military base Pavlovo)",
+      "Position": [
+        2136,
+        0,
+        3516
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_AF_Balota (Airfield Balota)",
+      "Position": [
+        5082.03076,
+        0,
+        2376.32788
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_AF_Krasno (Airfield Krasno)",
+      "Position": [
+        12100.6807,
+        0,
+        12573.8965
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_AF_Vybor (Airfield Vybor)",
+      "Position": [
+        4428,
+        0,
+        10179
+      ],
+      "Radius": 100.0,
+      "Type": "BigMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Elektro",
+      "Position": [
+        10309.9121,
+        0,
+        2092.20288
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Prigorodki",
+      "Position": [
+        8056.03418,
+        0,
+        3264.90796
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Cherno",
+      "Position": [
+        6540.62598,
+        0,
+        2638.7749
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Balota",
+      "Position": [
+        4399.25879,
+        0,
+        2309.39697
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Komarovo",
+      "Position": [
+        3670.66699,
+        0,
+        2397.5249
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Kamenka",
+      "Position": [
+        1877.93506,
+        0,
+        2168.55908
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Zeleno",
+      "Position": [
+        2485.26611,
+        0,
+        5214.66406
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Vavilovo",
+      "Position": [
+        1991.50305,
+        0,
+        11289.4883
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Novaya",
+      "Position": [
+        3534.42505,
+        0,
+        12537.0947
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Severograd",
+      "Position": [
+        7846.58105,
+        0,
+        12401.4883
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Novo",
+      "Position": [
+        11610.9082,
+        0,
+        14133.7021
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Svetlo",
+      "Position": [
+        13970.4727,
+        0,
+        13486.3438
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Berezino",
+      "Position": [
+        12989.8438,
+        0,
+        10200.6729
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Solnich",
+      "Position": [
+        13146.1094,
+        0,
+        7094.47217
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Solnich2",
+      "Position": [
+        13356.1094,
+        0,
+        6154.47217
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Kamyshovo",
+      "Position": [
+        11970.9688,
+        0,
+        3548.7229
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "RailroadStation_Dobroye",
+      "Position": [
+        12860.6582,
+        0,
+        15050.2207
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Novaya",
+      "Position": [
+        3469.17212,
+        0,
+        13135.165
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Vybor",
+      "Position": [
+        3857.65601,
+        0,
+        8946.13965
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Sinys",
+      "Position": [
+        1439.07996,
+        0,
+        12011.2598
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Vavil",
+      "Position": [
+        2220.84009,
+        0,
+        11075.8301
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Lopat",
+      "Position": [
+        2720.71997,
+        0,
+        9978.13965
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Pustosh",
+      "Position": [
+        3051.43994,
+        0,
+        7804.68018
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Pogorev",
+      "Position": [
+        4480.70996,
+        0,
+        6462
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Kabanin",
+      "Position": [
+        5382,
+        0,
+        8589
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Stary",
+      "Position": [
+        5971.08008,
+        0,
+        7743.3501
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Novy",
+      "Position": [
+        7166.95996,
+        0,
+        7526.00977
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Grishino",
+      "Position": [
+        5983,
+        0,
+        10305
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Severo",
+      "Position": [
+        7986,
+        0,
+        12732
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Gorka",
+      "Position": [
+        9503,
+        0,
+        8805
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Mogi",
+      "Position": [
+        7562,
+        0,
+        5149
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Nadez",
+      "Position": [
+        5906,
+        0,
+        4844
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Cherno",
+      "Position": [
+        6607,
+        0,
+        2418
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Kozlov",
+      "Position": [
+        4394,
+        0,
+        4629
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Komar",
+      "Position": [
+        3676,
+        0,
+        2501
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Pavlovo",
+      "Position": [
+        1655,
+        0,
+        3851
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Zeleno",
+      "Position": [
+        2854,
+        0,
+        5282
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Elektro",
+      "Position": [
+        10212,
+        0,
+        2295
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Kamys",
+      "Position": [
+        12155,
+        0,
+        3514
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Staroye",
+      "Position": [
+        10106,
+        0,
+        5457
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Dolina",
+      "Position": [
+        11217,
+        0,
+        6564
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Solnich",
+      "Position": [
+        13383,
+        0,
+        6225
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Polana",
+      "Position": [
+        10676,
+        0,
+        7989
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Berezino",
+      "Position": [
+        12272,
+        0,
+        9474
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Krasno",
+      "Position": [
+        11257,
+        0,
+        12211
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Svetlo",
+      "Position": [
+        14013,
+        0,
+        13335
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Cpol",
+      "Position": [
+        12110,
+        0,
+        13779
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "LocalOffice_Novo",
+      "Position": [
+        11564,
+        0,
+        14742
+      ],
+      "Radius": 100.0,
+      "Type": "LocalOffice",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Berezino (Berezino Military)",
+      "Position": [
+        11966,
+        0,
+        9130
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_NovyLug (Novy Lug Military)",
+      "Position": [
+        9579,
+        0,
+        11796
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Elektrozavodsk (Elektrozavodsk Military)",
+      "Position": [
+        10481,
+        0,
+        2356
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Turovo (Turovo Military)",
+      "Position": [
+        13626,
+        0,
+        13740
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_StarySobor (Stary Sobor Military)",
+      "Position": [
+        6351,
+        0,
+        7790
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Sosnovy (Sosnovy Military)",
+      "Position": [
+        2720,
+        0,
+        6760
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Ostry (Ostry Military)",
+      "Position": [
+        10958,
+        0,
+        13341
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Severograd (Severograd Military)",
+      "Position": [
+        7074,
+        0,
+        12735
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Arsenovo (Arsenovo Military)",
+      "Position": [
+        8560,
+        0,
+        14000
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_KamenskSmall (Kamensk Military)",
+      "Position": [
+        7075,
+        0,
+        14520
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Grozovy (Grozovy Military)",
+      "Position": [
+        3660,
+        0,
+        14920
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Zaprudnoye (Zaprudnoye Military)",
+      "Position": [
+        4964,
+        0,
+        12908
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Bashnya (Bashnya Military)",
+      "Position": [
+        4107,
+        0,
+        11660
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_TriKresta (Tri Kresta Military)",
+      "Position": [
+        324,
+        0,
+        9324
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Tikhiyzaliv (Tikhiyzaliv Military)",
+      "Position": [
+        780,
+        0,
+        1870
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_PrisonIsland (Prison Island Military)",
+      "Position": [
+        2706,
+        0,
+        1355
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Chernogorsk (Chernogorsk Military)",
+      "Position": [
+        7260,
+        0,
+        3024
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Novoselki (Novoselki Military)",
+      "Position": [
+        5820,
+        0,
+        3080
+      ],
+      "Radius": 200.0,
+      "Type": "Suburb",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Topolka (Topolka Military)",
+      "Position": [
+        10236,
+        0,
+        4029
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Staroye (Staroye Military)",
+      "Position": [
+        10441,
+        0,
+        5970
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Gorka (Gorka Military)",
+      "Position": [
+        10470,
+        0,
+        9170
+      ],
+      "Radius": 100.0,
+      "Type": "SmallMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "Local_MB_Myshkino (Myshkino Military Base)",
+      "Position": [
+        1190,
+        0,
+        7240
+      ],
+      "Radius": 100.0,
+      "Type": "MediumMilitary",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_1",
+      "Position": [
+        80.2554092,
+        0,
+        4422.15869
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_2",
+      "Position": [
+        80.2505875,
+        0,
+        10449.1152
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_3",
+      "Position": [
+        151.035278,
+        0,
+        3655.14551
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_4",
+      "Position": [
+        178.26767,
+        0,
+        7858.56592
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_5",
+      "Position": [
+        139.805328,
+        0,
+        14357.0059
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_6",
+      "Position": [
+        209.610764,
+        0,
+        11768.0703
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_1",
+      "Position": [
+        196.368607,
+        0,
+        11938.0117
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_2",
+      "Position": [
+        258.460449,
+        0,
+        4340.96094
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_3",
+      "Position": [
+        275.758148,
+        0,
+        5026.4751
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_7",
+      "Position": [
+        271.583893,
+        0,
+        5607.26367
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_4",
+      "Position": [
+        284.28363,
+        0,
+        9767.23145
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_8",
+      "Position": [
+        320.447876,
+        0,
+        12537.249
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_5",
+      "Position": [
+        348.418243,
+        0,
+        12972.1465
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_6",
+      "Position": [
+        386.489899,
+        0,
+        3859.37402
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_9",
+      "Position": [
+        398.866913,
+        0,
+        4056.45654
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_7",
+      "Position": [
+        366.036987,
+        0,
+        6427.57568
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_8",
+      "Position": [
+        469.456177,
+        0,
+        2043.09058
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_10",
+      "Position": [
+        422.996643,
+        0,
+        9848.81738
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_11",
+      "Position": [
+        456.326569,
+        0,
+        13249.1504
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_9",
+      "Position": [
+        537.170349,
+        0,
+        9312.60059
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_10",
+      "Position": [
+        532.378784,
+        0,
+        10757.9072
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_12",
+      "Position": [
+        597.511475,
+        0,
+        6747.66162
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_11",
+      "Position": [
+        555.714111,
+        0,
+        7361.36621
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_13",
+      "Position": [
+        576.444336,
+        0,
+        8142.42139
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_14",
+      "Position": [
+        647.718506,
+        0,
+        2313.11572
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_12",
+      "Position": [
+        628.04187,
+        0,
+        7189.39355
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_13",
+      "Position": [
+        677.399963,
+        0,
+        2779.03662
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_14",
+      "Position": [
+        766.845154,
+        0,
+        6010.14453
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_15",
+      "Position": [
+        820.721741,
+        0,
+        3153.15649
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_15",
+      "Position": [
+        795.369812,
+        0,
+        4727.41992
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_16",
+      "Position": [
+        798.055237,
+        0,
+        4781.34424
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_16",
+      "Position": [
+        831.70697,
+        0,
+        6977.13525
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_17",
+      "Position": [
+        807.184082,
+        0,
+        7155.58398
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_17",
+      "Position": [
+        786.58374,
+        0,
+        8676.42773
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_18",
+      "Position": [
+        804.834229,
+        0,
+        10798.0186
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_19",
+      "Position": [
+        884.092896,
+        0,
+        4147.76611
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_20",
+      "Position": [
+        873.904053,
+        0,
+        5302.40674
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_18",
+      "Position": [
+        877.262695,
+        0,
+        6184.38232
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_19",
+      "Position": [
+        962.603821,
+        0,
+        6855.63428
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_21",
+      "Position": [
+        1056.56519,
+        0,
+        11242.2207
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_22",
+      "Position": [
+        1032.99866,
+        0,
+        12424.2354
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_23",
+      "Position": [
+        1100.01599,
+        0,
+        3585.55444
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_24",
+      "Position": [
+        1276.82458,
+        0,
+        7723.99609
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_20",
+      "Position": [
+        1292.36902,
+        0,
+        7988.30127
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_25",
+      "Position": [
+        1270.74719,
+        0,
+        10175.7324
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_21",
+      "Position": [
+        1354.83289,
+        0,
+        2457.88428
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_22",
+      "Position": [
+        1371.50183,
+        0,
+        6786.63574
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_26",
+      "Position": [
+        1350.68359,
+        0,
+        9858.78711
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_23",
+      "Position": [
+        1386.13708,
+        0,
+        15012.5947
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_27",
+      "Position": [
+        1491.47766,
+        0,
+        4759.68945
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_28",
+      "Position": [
+        1443.86072,
+        0,
+        6559.95166
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_29",
+      "Position": [
+        1487.2561,
+        0,
+        8567.62109
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_30",
+      "Position": [
+        1460.33496,
+        0,
+        14897.5635
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_31",
+      "Position": [
+        1581.82947,
+        0,
+        10646.833
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_32",
+      "Position": [
+        1676.65625,
+        0,
+        4699.43945
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_24",
+      "Position": [
+        1667.44702,
+        0,
+        4932.44434
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_33",
+      "Position": [
+        1740.95313,
+        0,
+        3235.36108
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_25",
+      "Position": [
+        1797.98596,
+        0,
+        8055.37061
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_26",
+      "Position": [
+        1770.8844,
+        0,
+        8434.26074
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_34",
+      "Position": [
+        1805.22314,
+        0,
+        11432.7148
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_35",
+      "Position": [
+        1918.3335,
+        0,
+        9409.08691
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_36",
+      "Position": [
+        2029.42651,
+        0,
+        3048.3269
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_37",
+      "Position": [
+        2022.29187,
+        0,
+        6598.07617
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_27",
+      "Position": [
+        1987.26404,
+        0,
+        12965.8604
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_28",
+      "Position": [
+        2057.73096,
+        0,
+        6277.83691
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_38",
+      "Position": [
+        2092.77808,
+        0,
+        14762.1035
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_39",
+      "Position": [
+        2112.39014,
+        0,
+        2630.34863
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_40",
+      "Position": [
+        2192.45313,
+        0,
+        7547.80615
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_41",
+      "Position": [
+        2166.57202,
+        0,
+        12707.1787
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_29",
+      "Position": [
+        2171.25293,
+        0,
+        13767.1719
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_42",
+      "Position": [
+        2271.81982,
+        0,
+        4283.48975
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_43",
+      "Position": [
+        2276.88428,
+        0,
+        5970.96924
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_44",
+      "Position": [
+        2298.49878,
+        0,
+        8493.96777
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_30",
+      "Position": [
+        2394.46191,
+        0,
+        14753.7617
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_45",
+      "Position": [
+        2491.12378,
+        0,
+        6882.45703
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_46",
+      "Position": [
+        2489.62988,
+        0,
+        7680.27002
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_31",
+      "Position": [
+        2501.25391,
+        0,
+        11130.8584
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_32",
+      "Position": [
+        2543.6438,
+        0,
+        7593.26855
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_33",
+      "Position": [
+        2563.89844,
+        0,
+        9221.77637
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_47",
+      "Position": [
+        2538.37085,
+        0,
+        9381.54785
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_48",
+      "Position": [
+        2577.13721,
+        0,
+        13904.2715
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_49",
+      "Position": [
+        2626.66382,
+        0,
+        11336.5107
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_50",
+      "Position": [
+        2737.95581,
+        0,
+        3598.01416
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_34",
+      "Position": [
+        2747.54248,
+        0,
+        4226.28662
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_35",
+      "Position": [
+        2813.12695,
+        0,
+        2482.89941
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_36",
+      "Position": [
+        2974.19531,
+        0,
+        13591.542
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_51",
+      "Position": [
+        2943.97754,
+        0,
+        14412.0176
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_52",
+      "Position": [
+        3118.23999,
+        0,
+        2397.14746
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_37",
+      "Position": [
+        3063.5647,
+        0,
+        6581.65283
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_53",
+      "Position": [
+        3228.16479,
+        0,
+        3600.86694
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_54",
+      "Position": [
+        3214.30566,
+        0,
+        6287.80371
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_55",
+      "Position": [
+        3199.40088,
+        0,
+        11591.5391
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_56",
+      "Position": [
+        3282.51294,
+        0,
+        5767.63037
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_38",
+      "Position": [
+        3273.12329,
+        0,
+        11624.1826
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_57",
+      "Position": [
+        3360.87964,
+        0,
+        4284.31689
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_58",
+      "Position": [
+        3418.32764,
+        0,
+        10188.8145
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_59",
+      "Position": [
+        3374.05615,
+        0,
+        11019.9971
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_60",
+      "Position": [
+        3423.88403,
+        0,
+        8144.59521
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_61",
+      "Position": [
+        3443.35474,
+        0,
+        12136.3213
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_62",
+      "Position": [
+        3654.33569,
+        0,
+        6260.97998
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_63",
+      "Position": [
+        3603.95898,
+        0,
+        9367.57031
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_39",
+      "Position": [
+        3614.81226,
+        0,
+        10572.5488
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_64",
+      "Position": [
+        3746.5769,
+        0,
+        2979.05664
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_65",
+      "Position": [
+        3818.07349,
+        0,
+        14120.4521
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_66",
+      "Position": [
+        3871.45898,
+        0,
+        4434.83154
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_67",
+      "Position": [
+        3965.75049,
+        0,
+        12130.793
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_68",
+      "Position": [
+        4079.57617,
+        0,
+        3865.76294
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_69",
+      "Position": [
+        4081.33569,
+        0,
+        6016.44678
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_70",
+      "Position": [
+        4111.55908,
+        0,
+        15170.7275
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_40",
+      "Position": [
+        4145.29492,
+        0,
+        3819.47998
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_71",
+      "Position": [
+        4221.71826,
+        0,
+        7087.98242
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_72",
+      "Position": [
+        4315.5166,
+        0,
+        14287.2832
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_73",
+      "Position": [
+        4351.98486,
+        0,
+        4973.5498
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_41",
+      "Position": [
+        4364.22412,
+        0,
+        14671.9482
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_74",
+      "Position": [
+        4393.41992,
+        0,
+        8058.58398
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_42",
+      "Position": [
+        4389.11133,
+        0,
+        11896.748
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_75",
+      "Position": [
+        4414.0874,
+        0,
+        12237.998
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_43",
+      "Position": [
+        4444.73438,
+        0,
+        5074.04541
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_44",
+      "Position": [
+        4544.91992,
+        0,
+        3130.60791
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_76",
+      "Position": [
+        4719.4917,
+        0,
+        14976.7744
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_77",
+      "Position": [
+        4700.04736,
+        0,
+        15234.9727
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_78",
+      "Position": [
+        4826.61328,
+        0,
+        3318.20874
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_45",
+      "Position": [
+        4839.22754,
+        0,
+        3845.39478
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_79",
+      "Position": [
+        4838.27637,
+        0,
+        4611.08203
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_80",
+      "Position": [
+        4852.2124,
+        0,
+        13584.4287
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_81",
+      "Position": [
+        4882.74316,
+        0,
+        8150.26709
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_82",
+      "Position": [
+        4880.12158,
+        0,
+        12475.9385
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_83",
+      "Position": [
+        4951.24512,
+        0,
+        6380.9751
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_84",
+      "Position": [
+        4998.56494,
+        0,
+        5068.76025
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_46",
+      "Position": [
+        5026.82617,
+        0,
+        11275.8203
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_85",
+      "Position": [
+        5071.28174,
+        0,
+        6279.51416
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_47",
+      "Position": [
+        5097.83594,
+        0,
+        6386.39941
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_86",
+      "Position": [
+        5209.11914,
+        0,
+        4085.26392
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_48",
+      "Position": [
+        5263.22119,
+        0,
+        4857.93311
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_87",
+      "Position": [
+        5276.73877,
+        0,
+        11899.7773
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_88",
+      "Position": [
+        5329.6665,
+        0,
+        5795.32178
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_89",
+      "Position": [
+        5338.43359,
+        0,
+        7360.75488
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_49",
+      "Position": [
+        5298.08789,
+        0,
+        13590.9395
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_50",
+      "Position": [
+        5346.17285,
+        0,
+        7893.01953
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_90",
+      "Position": [
+        5466.61963,
+        0,
+        7888.14209
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_91",
+      "Position": [
+        5543.33057,
+        0,
+        9563.01855
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_92",
+      "Position": [
+        5535.75928,
+        0,
+        11251.6768
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_93",
+      "Position": [
+        5520.56641,
+        0,
+        13834.3193
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_94",
+      "Position": [
+        5564.58643,
+        0,
+        15084.6885
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_95",
+      "Position": [
+        5669.75146,
+        0,
+        6843.33643
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_51",
+      "Position": [
+        5682.58643,
+        0,
+        14211.7803
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_96",
+      "Position": [
+        5646.14551,
+        0,
+        14309.6289
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_97",
+      "Position": [
+        5869.34766,
+        0,
+        4303.31738
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_98",
+      "Position": [
+        5921.1665,
+        0,
+        3466.40259
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_99",
+      "Position": [
+        6085.94287,
+        0,
+        5033.9873
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_100",
+      "Position": [
+        6115.56396,
+        0,
+        6129.0957
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_52",
+      "Position": [
+        6155.04834,
+        0,
+        5688.33594
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_101",
+      "Position": [
+        6144.72119,
+        0,
+        13133.6084
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_53",
+      "Position": [
+        6187.65723,
+        0,
+        4090.8728
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_102",
+      "Position": [
+        6227.56152,
+        0,
+        9750.39453
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_54",
+      "Position": [
+        6204.86279,
+        0,
+        11372.8975
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_103",
+      "Position": [
+        6213.13574,
+        0,
+        11360.1797
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_55",
+      "Position": [
+        6220.26953,
+        0,
+        15337.1553
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_104",
+      "Position": [
+        6296.67139,
+        0,
+        7822.17285
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_105",
+      "Position": [
+        6250.13184,
+        0,
+        12220.5391
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_106",
+      "Position": [
+        6290.25684,
+        0,
+        14224.7197
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_107",
+      "Position": [
+        6332.48438,
+        0,
+        7949.25635
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_108",
+      "Position": [
+        6376.41699,
+        0,
+        6573.80469
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_109",
+      "Position": [
+        6375.04346,
+        0,
+        7788.13574
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_110",
+      "Position": [
+        6434.42529,
+        0,
+        8473.61914
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_111",
+      "Position": [
+        6579.56689,
+        0,
+        4391.3916
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_112",
+      "Position": [
+        6601.27441,
+        0,
+        15192.6064
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_56",
+      "Position": [
+        6682.37109,
+        0,
+        6772.42578
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_113",
+      "Position": [
+        6696.35986,
+        0,
+        8429.76758
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_57",
+      "Position": [
+        6703.77588,
+        0,
+        13709.3086
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_114",
+      "Position": [
+        6736.15918,
+        0,
+        5409.02344
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_115",
+      "Position": [
+        6784.25537,
+        0,
+        7184.1543
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_116",
+      "Position": [
+        6798.00977,
+        0,
+        12984.001
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_117",
+      "Position": [
+        6815.09082,
+        0,
+        13603.0635
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_118",
+      "Position": [
+        6856.54834,
+        0,
+        8004.64697
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_58",
+      "Position": [
+        6889.0293,
+        0,
+        10862.5186
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_59",
+      "Position": [
+        6860.77979,
+        0,
+        15051.707
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_60",
+      "Position": [
+        6997.19043,
+        0,
+        4549.72021
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_119",
+      "Position": [
+        7071.36084,
+        0,
+        9943.9502
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_61",
+      "Position": [
+        7024.97168,
+        0,
+        13569.2383
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_62",
+      "Position": [
+        7088.25146,
+        0,
+        9160.88672
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_120",
+      "Position": [
+        7139.66895,
+        0,
+        11959.4121
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_63",
+      "Position": [
+        7101.6167,
+        0,
+        12359.9346
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_121",
+      "Position": [
+        7180.40186,
+        0,
+        14000.4932
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_122",
+      "Position": [
+        7235.30664,
+        0,
+        5952.16699
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_123",
+      "Position": [
+        7236.67188,
+        0,
+        10704.5508
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_64",
+      "Position": [
+        7428.10205,
+        0,
+        12732.7246
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_124",
+      "Position": [
+        7463.29834,
+        0,
+        6770.59375
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_65",
+      "Position": [
+        7499.93311,
+        0,
+        11747.9463
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_125",
+      "Position": [
+        7619.32178,
+        0,
+        5407.14697
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_66",
+      "Position": [
+        7635.48438,
+        0,
+        6637.42236
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_67",
+      "Position": [
+        7652.49951,
+        0,
+        11186.4561
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_126",
+      "Position": [
+        7626.86865,
+        0,
+        11781.4492
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_127",
+      "Position": [
+        7696.03418,
+        0,
+        8689.22168
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_128",
+      "Position": [
+        7926.21533,
+        0,
+        13360.1514
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_129",
+      "Position": [
+        8035.27002,
+        0,
+        14131.9385
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_130",
+      "Position": [
+        8079.48633,
+        0,
+        4485.92871
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_131",
+      "Position": [
+        8078.72217,
+        0,
+        15145.2695
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_132",
+      "Position": [
+        8143.49414,
+        0,
+        5039.3291
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_133",
+      "Position": [
+        8115.21875,
+        0,
+        5753.80273
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_134",
+      "Position": [
+        8135.91797,
+        0,
+        6808.03906
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_68",
+      "Position": [
+        8118.46582,
+        0,
+        8237.87988
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_69",
+      "Position": [
+        8171.70703,
+        0,
+        5446.84814
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_135",
+      "Position": [
+        8194.22656,
+        0,
+        7708.65576
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_70",
+      "Position": [
+        8209.60938,
+        0,
+        14276.9883
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_136",
+      "Position": [
+        8291.76855,
+        0,
+        9722.35547
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_137",
+      "Position": [
+        8337.32422,
+        0,
+        10673.748
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_138",
+      "Position": [
+        8368.44629,
+        0,
+        11439.751
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_139",
+      "Position": [
+        8406.13574,
+        0,
+        3301.34692
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_140",
+      "Position": [
+        8404.89746,
+        0,
+        8159.79395
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_71",
+      "Position": [
+        8414.36426,
+        0,
+        10533.499
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_141",
+      "Position": [
+        8480.40625,
+        0,
+        6131.10205
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_72",
+      "Position": [
+        8546.1875,
+        0,
+        4394.57715
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_73",
+      "Position": [
+        8633.56934,
+        0,
+        12096.2129
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_142",
+      "Position": [
+        8676.98926,
+        0,
+        12304.5791
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_143",
+      "Position": [
+        8659.51465,
+        0,
+        14297.8242
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_74",
+      "Position": [
+        8701.78418,
+        0,
+        8780.08691
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_144",
+      "Position": [
+        8805.1709,
+        0,
+        10479.6309
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_145",
+      "Position": [
+        8771.00781,
+        0,
+        15021.9824
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_146",
+      "Position": [
+        8823.19043,
+        0,
+        4197.71436
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_147",
+      "Position": [
+        8844.28711,
+        0,
+        6457.55273
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_75",
+      "Position": [
+        8855.45117,
+        0,
+        6983.57666
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_148",
+      "Position": [
+        8824.82715,
+        0,
+        7566.71191
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_149",
+      "Position": [
+        8826.71973,
+        0,
+        8649.65332
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_76",
+      "Position": [
+        8841.28125,
+        0,
+        13877.8174
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_150",
+      "Position": [
+        8895.17285,
+        0,
+        5322.28662
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_77",
+      "Position": [
+        9127.63965,
+        0,
+        3101.74829
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_78",
+      "Position": [
+        9177.20313,
+        0,
+        7769.8252
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_151",
+      "Position": [
+        9163.37793,
+        0,
+        15016.9121
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_152",
+      "Position": [
+        9186.09375,
+        0,
+        8289.3418
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_153",
+      "Position": [
+        9332.7373,
+        0,
+        3373.75464
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_154",
+      "Position": [
+        9325.95703,
+        0,
+        7220.44238
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_79",
+      "Position": [
+        9303.29297,
+        0,
+        12043.5635
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_80",
+      "Position": [
+        9311.43262,
+        0,
+        15032.3203
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_81",
+      "Position": [
+        9429.69824,
+        0,
+        5824.30859
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_155",
+      "Position": [
+        9453.71484,
+        0,
+        7718.00537
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_156",
+      "Position": [
+        9535.52441,
+        0,
+        2705.53174
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_157",
+      "Position": [
+        9502.70703,
+        0,
+        9051.14844
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_158",
+      "Position": [
+        9548.32422,
+        0,
+        12634.1494
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_159",
+      "Position": [
+        9626.60156,
+        0,
+        6258.80518
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_82",
+      "Position": [
+        9656.12891,
+        0,
+        9187.78613
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_160",
+      "Position": [
+        9665.51172,
+        0,
+        3669.48071
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_161",
+      "Position": [
+        9665.86621,
+        0,
+        8331.41602
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_162",
+      "Position": [
+        9689.20508,
+        0,
+        14663.0234
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_163",
+      "Position": [
+        9769.47266,
+        0,
+        2516.2666
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_164",
+      "Position": [
+        9728.22266,
+        0,
+        4496.68408
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_165",
+      "Position": [
+        9763.42188,
+        0,
+        11714.377
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_166",
+      "Position": [
+        9832.16406,
+        0,
+        14217.416
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_167",
+      "Position": [
+        9811.54297,
+        0,
+        15234.3643
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_83",
+      "Position": [
+        9884.57422,
+        0,
+        4360.16162
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_168",
+      "Position": [
+        9855.33496,
+        0,
+        7239.01709
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_169",
+      "Position": [
+        9864.71191,
+        0,
+        13456.0273
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_170",
+      "Position": [
+        9945.50586,
+        0,
+        3192.29443
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_171",
+      "Position": [
+        9919.72266,
+        0,
+        5257.38574
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_172",
+      "Position": [
+        9914.37695,
+        0,
+        9632.33398
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_84",
+      "Position": [
+        9940.59277,
+        0,
+        15282.3047
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_173",
+      "Position": [
+        9979.72363,
+        0,
+        8973.89941
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_174",
+      "Position": [
+        10085.7324,
+        0,
+        6696.15625
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_85",
+      "Position": [
+        10143.2832,
+        0,
+        6752.47461
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_175",
+      "Position": [
+        10227.5596,
+        0,
+        8431.2959
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_86",
+      "Position": [
+        10297.1172,
+        0,
+        7458.81982
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_176",
+      "Position": [
+        10333.3232,
+        0,
+        10130.7129
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_177",
+      "Position": [
+        10322.3008,
+        0,
+        14695.1123
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_178",
+      "Position": [
+        10383.3682,
+        0,
+        6011.97266
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_87",
+      "Position": [
+        10482.5078,
+        0,
+        11750.0605
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_179",
+      "Position": [
+        10443.5723,
+        0,
+        12495.6611
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_88",
+      "Position": [
+        10561.7451,
+        0,
+        12798.1855
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_180",
+      "Position": [
+        10663.9326,
+        0,
+        5224.53174
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_89",
+      "Position": [
+        10643.4951,
+        0,
+        6059.49756
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_181",
+      "Position": [
+        10635.291,
+        0,
+        10921.459
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_182",
+      "Position": [
+        10704.667,
+        0,
+        5836.66943
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_90",
+      "Position": [
+        10783.2588,
+        0,
+        3645.51392
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_183",
+      "Position": [
+        10797.9697,
+        0,
+        13557.957
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_184",
+      "Position": [
+        10785.374,
+        0,
+        14904.2959
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_185",
+      "Position": [
+        10855.9902,
+        0,
+        3497.84448
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_186",
+      "Position": [
+        10858.7754,
+        0,
+        4244.75
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_91",
+      "Position": [
+        10877.5146,
+        0,
+        4134.33105
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_187",
+      "Position": [
+        10898.4189,
+        0,
+        6443.58398
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_92",
+      "Position": [
+        10873.3525,
+        0,
+        10268.7617
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_93",
+      "Position": [
+        10886.4814,
+        0,
+        14709.8369
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_94",
+      "Position": [
+        10967.7031,
+        0,
+        8591.66797
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_188",
+      "Position": [
+        11201.7383,
+        0,
+        7260.87988
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_189",
+      "Position": [
+        11160.2734,
+        0,
+        9590.68359
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_95",
+      "Position": [
+        11167.9385,
+        0,
+        9848.03711
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_190",
+      "Position": [
+        11237.1523,
+        0,
+        5624.03027
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_96",
+      "Position": [
+        11234.2246,
+        0,
+        13647.4199
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_191",
+      "Position": [
+        11326.1621,
+        0,
+        8057.80078
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_192",
+      "Position": [
+        11339.5771,
+        0,
+        9193.64746
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_193",
+      "Position": [
+        11358.8408,
+        0,
+        10188.3037
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_97",
+      "Position": [
+        11364.6816,
+        0,
+        11773.5459
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_194",
+      "Position": [
+        11448.2686,
+        0,
+        5127.8374
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_98",
+      "Position": [
+        11575.9893,
+        0,
+        4676.30469
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_195",
+      "Position": [
+        11535.9199,
+        0,
+        13324.7793
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_196",
+      "Position": [
+        11609.0918,
+        0,
+        3733.31201
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_197",
+      "Position": [
+        11687.9746,
+        0,
+        6963.61816
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_198",
+      "Position": [
+        11707.2451,
+        0,
+        4435.03711
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_99",
+      "Position": [
+        11756.5635,
+        0,
+        5805.4707
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_199",
+      "Position": [
+        11750.498,
+        0,
+        6317.56787
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_100",
+      "Position": [
+        11733.5703,
+        0,
+        7100.34375
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_101",
+      "Position": [
+        11816.8711,
+        0,
+        4013.44043
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_200",
+      "Position": [
+        11819.041,
+        0,
+        8417.52148
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_201",
+      "Position": [
+        11868.5723,
+        0,
+        15252.7617
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_202",
+      "Position": [
+        11887.835,
+        0,
+        9545.04883
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_203",
+      "Position": [
+        11942.6592,
+        0,
+        10835.8877
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_102",
+      "Position": [
+        12073.0342,
+        0,
+        5111.58203
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_103",
+      "Position": [
+        12130.3564,
+        0,
+        5451.78369
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_104",
+      "Position": [
+        12128.5361,
+        0,
+        11189.9316
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_105",
+      "Position": [
+        12178.1504,
+        0,
+        14802.2559
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_204",
+      "Position": [
+        12251.6523,
+        0,
+        5433.67627
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_205",
+      "Position": [
+        12263.4463,
+        0,
+        8735.8125
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_206",
+      "Position": [
+        12289.3438,
+        0,
+        11441.0186
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_207",
+      "Position": [
+        12345.3809,
+        0,
+        6924.68164
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_106",
+      "Position": [
+        12378.5313,
+        0,
+        7740.57275
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_208",
+      "Position": [
+        12372.0889,
+        0,
+        15202.4043
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_209",
+      "Position": [
+        12463.2461,
+        0,
+        4638.87061
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_210",
+      "Position": [
+        12582.7529,
+        0,
+        7388.13867
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_107",
+      "Position": [
+        12619.9668,
+        0,
+        6673.75488
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_211",
+      "Position": [
+        12635.8965,
+        0,
+        12804.0732
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_108",
+      "Position": [
+        12624.7227,
+        0,
+        14528.3457
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_212",
+      "Position": [
+        12719.8105,
+        0,
+        6323.47803
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_213",
+      "Position": [
+        12728.1709,
+        0,
+        5133.47607
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_214",
+      "Position": [
+        12761.9248,
+        0,
+        7721.4668
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_109",
+      "Position": [
+        12818.6885,
+        0,
+        13117.1973
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_215",
+      "Position": [
+        12867.1943,
+        0,
+        10430.9609
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_110",
+      "Position": [
+        12890.4814,
+        0,
+        10460.0957
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_216",
+      "Position": [
+        12935.9102,
+        0,
+        12241.8223
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_217",
+      "Position": [
+        13254.4385,
+        0,
+        12791.209
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_218",
+      "Position": [
+        13200.9336,
+        0,
+        13232.4121
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_111",
+      "Position": [
+        13331.6211,
+        0,
+        5062.05176
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_219",
+      "Position": [
+        13353.4678,
+        0,
+        15078.2598
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_112",
+      "Position": [
+        13381.251,
+        0,
+        12246.167
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_220",
+      "Position": [
+        13452.0527,
+        0,
+        11908.127
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_113",
+      "Position": [
+        13462.8848,
+        0,
+        12455.709
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_221",
+      "Position": [
+        13616.1992,
+        0,
+        3089.46289
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_222",
+      "Position": [
+        13646.5088,
+        0,
+        14477.6006
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_114",
+      "Position": [
+        13746.8105,
+        0,
+        14415.4971
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_223",
+      "Position": [
+        13953.6094,
+        0,
+        14845.1885
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_224",
+      "Position": [
+        14386.7109,
+        0,
+        15063.6191
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_115",
+      "Position": [
+        14422.5068,
+        0,
+        14289.8262
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_116",
+      "Position": [
+        14645.4912,
+        0,
+        14643.5566
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_225",
+      "Position": [
+        14844.6445,
+        0,
+        14073.1514
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    },
+    {
+      "Name": "FeedShack_117",
+      "Position": [
+        14917.3457,
+        0,
+        14257.6152
+      ],
+      "Radius": 100.0,
+      "Type": "FeedShack",
+      "Enabled": 1
+    },
+    {
+      "Name": "DeerStand_226",
+      "Position": [
+        15134.5313,
+        0,
+        14788.876
+      ],
+      "Radius": 100.0,
+      "Type": "DeerStand",
+      "Enabled": 1
+    }
+  ],
+  "ExcludedRoamingBuildings": [
+    "Land_CementWorks_Hall2_Grey",
+    "Land_Factory_Small",
+    "Land_House_1W09",
+    "Land_House_2W03",
+    "Land_HouseBlock_1F4",
+    "Land_Boathouse",
+    "Land_Mine_Building",
+    "Land_Shed_W2",
+    "Land_Tenement_Big",
+    "Land_Misc_Toilet_Mobile",
+    "Land_Ship_Medium2",
+    "Land_Boat_",
+    "Land_Train_Wagon_Box"
+  ],
+  "NoGoAreas": []
+}

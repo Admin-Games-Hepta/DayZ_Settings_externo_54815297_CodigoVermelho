@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
 	<classes>
-<!--
-These are rootclasses to be used by economy.
-Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
-Do not forget to add attribute act="car", if root class represents moveable vehicles
--->
 		<rootclass name="DefaultWeapon" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
@@ -35,4 +30,23 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+		<!-- Mod Expansion -->
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+	<ce folder="mods_ce">
+		<!-- Mod SNAFU -->
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
+		<!-- Mod Advance Weapon Scopes -->
+		<file name="Advanced_Weapon_Scopes_types.xml" type="types" />
+		<!-- Mod Tactical Flava -->
+		<file name="TacticalFlava_types.xml" type="types" />
+		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+		<!-- Mod MMG Storage -->
+		<file name="mmg_storage.xml" type="types" />
+    </ce>
+	
 </economycore>

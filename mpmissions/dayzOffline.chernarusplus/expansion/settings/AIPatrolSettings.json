@@ -1,0 +1,836 @@
+{
+  "m_Version": 30,
+  "Enabled": 1,
+  "FormationScale": -1.0,
+  "DespawnTime": 600.0,
+  "RespawnTime": -1.0,
+  "MinDistRadius": 400.0,
+  "MaxDistRadius": 1000.0,
+  "DespawnRadius": 1100.0,
+  "AccuracyMin": -1.0,
+  "AccuracyMax": -1.0,
+  "ThreatDistanceLimit": -1.0,
+  "NoiseInvestigationDistanceLimit": -1.0,
+  "MaxFlankingDistance": -1.0,
+  "EnableFlankingOutsideCombat": -1,
+  "DamageMultiplier": -1.0,
+  "DamageReceivedMultiplier": -1.0,
+  "LoadBalancingCategories": {
+    "Example": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": -1
+      }
+    ],
+    "Quest": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": -1
+      }
+    ],
+    "ObjectPatrol": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": 5
+      }
+    ],
+    "HelicopterWreck": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": 3
+      }
+    ],
+    "Global": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 10,
+        "MaxPatrols": 10
+      },
+      {
+        "MinPlayers": 11,
+        "MaxPlayers": 20,
+        "MaxPatrols": 8
+      },
+      {
+        "MinPlayers": 21,
+        "MaxPlayers": 30,
+        "MaxPatrols": 6
+      },
+      {
+        "MinPlayers": 31,
+        "MaxPlayers": 40,
+        "MaxPatrols": 4
+      },
+      {
+        "MinPlayers": 41,
+        "MaxPlayers": 50,
+        "MaxPatrols": 2
+      },
+      {
+        "MinPlayers": 51,
+        "MaxPlayers": 255,
+        "MaxPatrols": 0
+      }
+    ],
+    "ContaminatedArea": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": 2
+      }
+    ],
+    "Patrol": [
+      {
+        "MinPlayers": 0,
+        "MaxPlayers": 255,
+        "MaxPatrols": 5
+      }
+    ]
+  },
+  "Patrols": [
+    {
+      "Name": "Patrol 0",
+      "Persist": 0,
+      "Faction": "West",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "Wreck_UH1Y",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 1",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "Wreck_Mi8_Crashed",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 2",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "PoliceLoadout",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "Land_Wreck_sed01_aban1_police",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 3",
+      "Persist": 0,
+      "Faction": "East",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "PoliceLoadout",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "Land_Wreck_sed01_aban2_police",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 4",
+      "Persist": 0,
+      "Faction": "West",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "NBCLoadout",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "ContaminatedArea_Static",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 5",
+      "Persist": 0,
+      "Faction": "West",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "NBCLoadout",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "ContaminatedArea_Dynamic",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": []
+    },
+    {
+      "Name": "Patrol 6",
+      "Persist": 0,
+      "Faction": "West",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4211.22266,
+          109.023384,
+          6382.06445
+        ],
+        [
+          4151.6626,
+          105.450653,
+          6080.29443
+        ],
+        [
+          4160.97168,
+          105.412598,
+          6035.10303
+        ],
+        [
+          4160.69922,
+          106.25148,
+          5906.83008
+        ],
+        [
+          4107.86279,
+          108.930527,
+          5898.48291
+        ],
+        [
+          4057.25806,
+          114.174736,
+          5584.5957
+        ],
+        [
+          4084.56006,
+          113.232422,
+          5494.54004
+        ],
+        [
+          4079.30811,
+          113.801163,
+          5435.95313
+        ],
+        [
+          4081.73584,
+          113.402504,
+          5385.57617
+        ],
+        [
+          4067.26611,
+          109.788383,
+          4904.50879
+        ],
+        [
+          4126.50488,
+          107.371178,
+          4647.12891
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 7",
+      "Persist": 0,
+      "Faction": "West",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4508.86035,
+          109.347275,
+          6230.75146
+        ],
+        [
+          4448.49072,
+          109.377792,
+          6025.89258
+        ],
+        [
+          4546.90283,
+          112.057549,
+          6126.59033
+        ],
+        [
+          4613.97559,
+          110.163887,
+          6112.86963
+        ],
+        [
+          4563.82568,
+          110.696106,
+          5797.4502
+        ],
+        [
+          4551.80566,
+          110.555084,
+          5652.87695
+        ],
+        [
+          4312.20361,
+          110.752151,
+          5366.94189
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 8",
+      "Persist": 0,
+      "Faction": "Raiders",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 0,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          10545.6875,
+          38.0371552,
+          10384.2051
+        ],
+        [
+          10502.6152,
+          40.3777618,
+          10464.7549
+        ],
+        [
+          10700.6348,
+          34.3465424,
+          10461.4707
+        ],
+        [
+          10645.3506,
+          36.4518356,
+          10377.7695
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 9",
+      "Persist": 0,
+      "Faction": "Raiders",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 0,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          8588.20996,
+          103.304726,
+          13439.0029
+        ],
+        [
+          8578.58594,
+          106.485222,
+          13465.2813
+        ],
+        [
+          8605.71777,
+          112.455276,
+          13521.626
+        ],
+        [
+          8640.50977,
+          120.118225,
+          13590.3604
+        ],
+        [
+          8641.97656,
+          127.327774,
+          13644.0693
+        ],
+        [
+          8643.52344,
+          123.581627,
+          13609.8486
+        ],
+        [
+          8724.07715,
+          121.008499,
+          13532.3525
+        ],
+        [
+          8792.48438,
+          119.34481,
+          13479.8672
+        ],
+        [
+          8843.3584,
+          122.085854,
+          13469.4648
+        ],
+        [
+          8881.16113,
+          121.293594,
+          13413.0664
+        ],
+        [
+          8837.00488,
+          121.072372,
+          13470.0068
+        ],
+        [
+          8742.03906,
+          121.246811,
+          13516.5879
+        ],
+        [
+          8704.23828,
+          119.762787,
+          13546.5166
+        ],
+        [
+          8609.14453,
+          113.184517,
+          13527.6016
+        ],
+        [
+          8573.0166,
+          112.247055,
+          13530.6621
+        ],
+        [
+          8563.08398,
+          118.173904,
+          13576.2129
+        ],
+        [
+          8500.52539,
+          135.59021,
+          13653.7695
+        ],
+        [
+          8456.375,
+          139.365845,
+          13677.1279
+        ],
+        [
+          8546.61035,
+          126.12944,
+          13615.5449
+        ],
+        [
+          8566.74707,
+          116.355377,
+          13563.6885
+        ],
+        [
+          8573.12305,
+          112.562714,
+          13532.7393
+        ],
+        [
+          8563.7002,
+          107.298088,
+          13476.4658
+        ],
+        [
+          8586.04785,
+          103.664093,
+          13442.4355
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 10",
+      "Persist": 0,
+      "Faction": "Civilian",
+      "Formation": "",
+      "FormationScale": 0.0,
+      "FormationLooseness": 0.0,
+      "Loadout": "",
+      "Units": [],
+      "NumberOfAI": 1,
+      "NumberOfAIMax": 3,
+      "Behaviour": "ALTERNATE",
+      "LootingBehaviour": "",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "DefaultStance": "STANDING",
+      "DefaultLookAngle": 0.0,
+      "CanBeLooted": 1,
+      "LootDropOnDeath": "",
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "MaxFlankingDistance": -1.0,
+      "EnableFlankingOutsideCombat": -1,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "HeadshotResistance": 0.0,
+      "CanBeTriggeredByAI": 0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "LoadBalancingCategory": "",
+      "ObjectClassName": "",
+      "WaypointInterpolation": "",
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          9963.34668,
+          55.6400986,
+          10900.8447
+        ],
+        [
+          9965.39844,
+          54.7290344,
+          10969.5361
+        ],
+        [
+          9924.38086,
+          57.232151,
+          10901.9678
+        ]
+      ]
+    }
+  ]
+}

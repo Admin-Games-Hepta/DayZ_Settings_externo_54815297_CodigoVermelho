@@ -10,7 +10,8 @@ ServerSettings:
   
   # Pastas dentro de 'profiles' que o framework deve limpar no WIPE
   wipe_custom_folders:
-    - "AC/Modules/Banking"
+    - "ExpansionMod/ATM"
+    - "ExpansionMod/Quests/PlayerData"
 
 Metadata:
   game: "DayZ"
