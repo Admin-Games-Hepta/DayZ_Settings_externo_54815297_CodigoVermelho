@@ -37,9 +37,6 @@
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 	<ce folder="mods_ce">
-		<!-- Mod SNAFU -->
-		<file name="SNAFU_types.xml" type="types" />
-		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
 		<!-- Mod Advance Weapon Scopes -->
 		<file name="Advanced_Weapon_Scopes_types.xml" type="types" />
 		<!-- Mod Tactical Flava -->
@@ -47,6 +44,9 @@
 		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
 		<!-- Mod MMG Storage -->
 		<file name="mmg_storage.xml" type="types" />
+		<!-- Mod SNAFU -->
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
     </ce>
 	
 </economycore>

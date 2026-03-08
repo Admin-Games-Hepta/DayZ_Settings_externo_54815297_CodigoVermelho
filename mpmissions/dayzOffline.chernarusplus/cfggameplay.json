@@ -8,49 +8,49 @@
 		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
-	{
-		"disablePersonalLight": false,
-		"StaminaData":
-		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
-			"staminaWeightLimitThreshold": 6000.0,
-			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.75,
-			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 1.0,
-			"sprintLadderStaminaModifier": 1.0,
-			"meleeStaminaModifier": 1.0,
-			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
-		},
-		"ShockHandlingData":
-		{
-			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
-			"allowRefillSpeedModifier": true
-		},
-		"MovementData":
-		{
-			"timeToStrafeJog": 0.1,
-			"rotationSpeedJog": 0.3,
-			"timeToSprint": 0.45,
-			"timeToStrafeSprint": 0.3,
-			"rotationSpeedSprint": 0.15,
-			"allowStaminaAffectInertia": true
-		},
-		"DrowningData":
-		{
-			"staminaDepletionSpeed": 10.0,
-			"healthDepletionSpeed": 10.0,
-			"shockDepletionSpeed": 10.0
-		},
-		"WeaponObstructionData":
-		{
-			"staticMode": 1,
-			"dynamicMode": 1
-		}
-	},
+    {
+        "disablePersonalLight": false,
+        "StaminaData":
+        {
+            "sprintStaminaModifierErc": 0.1,
+            "sprintStaminaModifierCro": 0.1,
+            "staminaWeightLimitThreshold": 6000.0,
+            "staminaMax": 500.0,
+            "staminaKgToStaminaPercentPenalty": 0.5,
+            "staminaMinCap": 50.0,
+            "sprintSwimmingStaminaModifier": 0.5,
+            "sprintLadderStaminaModifier": 0.5,
+            "meleeStaminaModifier": 0.5,
+            "obstacleTraversalStaminaModifier": 0.5,
+            "holdBreathStaminaModifier": 0.5
+        },
+        "ShockHandlingData":
+        {
+            "shockRefillSpeedConscious": 5.0,
+            "shockRefillSpeedUnconscious": 1.0,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData":
+        {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData":
+        {
+            "staminaDepletionSpeed": 10.0,
+            "healthDepletionSpeed": 10.0,
+            "shockDepletionSpeed": 10.0
+        },
+        "WeaponObstructionData":
+        {
+            "staticMode": 1,
+            "dynamicMode": 1
+        }
+    },
 	"WorldsData":
 	{
 		"lightingConfig": 0,
