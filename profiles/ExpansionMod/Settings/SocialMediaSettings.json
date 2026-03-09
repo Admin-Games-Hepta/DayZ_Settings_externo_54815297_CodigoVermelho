@@ -1,16 +1,16 @@
 {
-    "m_Version": 2,
-    "NewsFeedTexts": [
-        {
-            "m_Title": "CodigoVermelho",
-            "m_Text": "Obrigado por jogar em nosso Servidor"
-        }
-    ],
-    "NewsFeedLinks": [
-        {
-            "m_Label": "Discord",
-            "m_Icon": "set:expansion_iconset image:icon_discord",
-            "m_URL": "https://discord.gg/aBHJaFsQED"
-        }
-    ]
+  "m_Version": 2,
+  "NewsFeedTexts": [
+    {
+      "m_Title": "CodigoVermelho",
+      "m_Text": "Obrigado por jogar em nosso Servidor"
+    }
+  ],
+  "NewsFeedLinks": [
+    {
+      "m_Label": "Discord",
+      "m_Icon": "set:expansion_iconset image:icon_discord",
+      "m_URL": "https://discord.gg/aBHJaFsQED"
+    }
+  ]
 }
