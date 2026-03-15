@@ -1,3 +1,12 @@
 {
-    "timeSettings": []
+    "timeSettings": [
+        {
+            "hour": 7,
+            "minute": 0,
+            "month": 9,
+            "day": 21,
+            "year": 2026,
+            "name": "9/21/2026 7:00"
+        }
+    ]
 }

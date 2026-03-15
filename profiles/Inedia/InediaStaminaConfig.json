@@ -1,0 +1,173 @@
+{
+    "ShowStaminaWidgetInVehicle": 1,
+    "AllowOpenInventoryWhileResting": 1,
+    "StaminaGeneralOptions": {
+        "IsActive": 1,
+        "NotificationsType": 2.0,
+        "RespawnValuePercent": 100.0,
+        "WeightOverloadThresholdKg": 50.0,
+        "WeightOverloadMultiplierMax": 2.0,
+        "CostPerSecondRestPercent": 0.6000000238418579,
+        "CostPerSecondNoMovementPercent": 0.30000001192092898,
+        "CostPerSecondNormalWalkingPercent": 0.30000001192092898,
+        "CostPerSecondCrouchWalkingPercent": 0.15000000596046449,
+        "CostPerSecondProneWalkingPercent": 0.15000000596046449,
+        "CostPerSecondJogPercent": -0.01,
+        "CostPerSecondCrouchSprintPercent": -0.02,
+        "CostPerSecondSprintPercent": -0.05,
+        "CostPerRollPercent": -0.05,
+        "CostPerJumpPercent": -0.2,
+        "CostPerVaultPercent": -0.2,
+        "CostPerClimbPercent": -0.5,
+        "CostPerMeleeAttackPercent": -0.05,
+        "CostPerPushCarApplyForcePercent": -0.05000000074505806,
+        "CostPerMinePercent": -0.5,
+        "CostPerMinePlanksFromPileOfWoodenPlanksPercent": -0.5,
+        "CostPerMinePlanksFromWoodenLogPercent": -2.0,
+        "CostPerBuildPercent": -0.5,
+        "WalkingWeightDebuffBorderKg": 80.0,
+        "OneDegreeOfSlopeUpMultiplierPercent": 5.0,
+        "OneDegreeOfSlopeDownMultiplierPercent": 5.0,
+        "SurfaceRoadMultiplier": 0.8999999761581421,
+        "SurfaceGrassMultiplier": 1.0,
+        "SurfaceGrassTallMultiplier": 1.100000023841858,
+        "SurfaceForestMultiplier": 1.100000023841858,
+        "SurfaceStoneMultiplier": 1.0,
+        "SurfaceSandMultiplier": 1.5,
+        "SurfaceWaterMultiplier": 2.0,
+        "SurfaceSnowMultiplier": 1.2000000476837159,
+        "SurfaceOtherMultiplier": 1.0,
+        "EpinephrineMultiplier": 0.20000000298023225,
+        "AMSEnergyPillsMultiplier": 0.5,
+        "MorphineMultiplier": 1.0,
+        "HeatMultiplier": 2.0,
+        "ShockPerSecondJogCritical": -1.0,
+        "ShockPerSecondSprintCritical": -4.0,
+        "ShockPerSecondJogLow": 0.0,
+        "ShockPerSecondSprintLow": -2.0,
+        "TremorLevelAtCritical": 1.0,
+        "TremorLevelAtLow": 0.30000001192092898,
+        "CriticalThresholdPercent": 5.0,
+        "LowThresholdPercent": 20.0
+    },
+    "StaminaSleepOptions": {
+        "IsActive": 1,
+        "NotificationsType": 2.0,
+        "RespawnValuePercent": 100.0,
+        "ReductionOfMaximumSleepWhenDaytimePercent": 20.0,
+        "ReductionOfMaximumSleepWhenOutdoorsPercent": 20.0,
+        "ReductionOfMaximumSleepWhenWetPercent": 20.0,
+        "ReductionOfMaximumSleepWhenColdPercent": 20.0,
+        "ReductionOfMaximumSleepWhenHotPercent": 20.0,
+        "DelayBeforeSleepSeconds": 10.0,
+        "DelayBeforeNextSleepTryInLyingDownSeconds": 600.0,
+        "CostPerSecondSleepPercent": 0.20000000298023225,
+        "CostPerSecondRestPercent": -0.003000000026077032,
+        "CostPerSecondNoMovementPercent": -0.003000000026077032,
+        "CostPerSecondNormalWalkingPercent": -0.004000000189989805,
+        "CostPerSecondCrouchWalkingPercent": -0.004000000189989805,
+        "CostPerSecondProneWalkingPercent": -0.004000000189989805,
+        "CostPerSecondJogPercent": -0.004999999888241291,
+        "CostPerSecondCrouchSprintPercent": -0.006000000052154064,
+        "CostPerSecondSprintPercent": -0.009999999776482582,
+        "CostPerRollPercent": -0.009999999776482582,
+        "CostPerJumpPercent": -0.009999999776482582,
+        "CostPerVaultPercent": -0.009999999776482582,
+        "CostPerClimbPercent": -0.019999999552965165,
+        "CostPerMeleeAttackPercent": -0.009999999776482582,
+        "CostPerPushCarApplyForcePercent": -0.0010000000474974514,
+        "CostPerMinePercent": -0.009999999776482582,
+        "CostPerMinePlanksFromPileOfWoodenPlanksPercent": -0.009999999776482582,
+        "CostPerMinePlanksFromWoodenLogPercent": -0.05000000074505806,
+        "CostPerBuildPercent": -0.009999999776482582,
+        "EpinephrineMultiplier": 0.20000000298023225,
+        "MorphineMultiplier": 50.0,
+        "TremorLevelAtCritical": 0.0,
+        "TremorLevelAtLow": 0.0,
+        "SleepyAlertsWhenLessCriticalIsActive": 1,
+        "LossOfConsciousnessWhenLessCriticalIsActive": 0,
+        "MovementSpeedReductionWhenLessLowIsActive": 0,
+        "CriticalThresholdPercent": 5.0,
+        "LowThresholdPercent": 20.0,
+        "SleepinessThresholdPercent": 50.0
+    },
+    "InediaMovementOptions": {
+        "IsActive": 1,
+        "NotificationsType": 2.0,
+        "WeightRestrictionsHandlerIsActive": 1,
+        "WeakSlowdownIfLoadGreaterThanKg": 40.0,
+        "MediumSlowdownIfLoadGreaterThanKg": 60.0,
+        "StrongSlowdownIfLoadGreaterThanKg": 80.0,
+        "ExtremeSlowdownIfLoadGreaterThanKg": 100.0,
+        "ForcedWalkIfLoadGreaterThanKg": 120.0,
+        "MovementRestrictionIfLoadGreaterThanKg": 150.0,
+        "SlopeRestrictionsHandlerIsActive": 1,
+        "WeakSlowdownIfSlopeGreaterThanDegree": 10.0,
+        "MediumSlowdownIfSlopeGreaterThanDegree": 20.0,
+        "StrongSlowdownIfSlopeGreaterThanDegree": 30.0,
+        "ExtremeSlowdownIfSlopeGreaterThanDegree": 40.0,
+        "ForcedWalkIfSlopeGreaterThanDegree": 50.0,
+        "MovementRestrictionIfSlopeGreaterThanDegree": -1.0,
+        "SurfaceRestrictionsHandlerIsActive": 1,
+        "SurfaceRoadSpeedReduction": 0,
+        "SurfaceGrassSpeedReduction": 0,
+        "SurfaceGrassTallSpeedReduction": 1,
+        "SurfaceForestSpeedReduction": 1,
+        "SurfaceStoneSpeedReduction": 0,
+        "SurfaceSandSpeedReduction": 2,
+        "SurfaceWaterSpeedReduction": 2,
+        "SurfaceSnowSpeedReduction": 1,
+        "SurfaceFootwearSpeedImpact": {
+            "Barefoot": -1
+        },
+        "ForcedWalkIfCharacterIsInBush": 1,
+        "BushClasses": {},
+        "CumulativeSpeedReductionIsActive": 1
+    },
+    "StaminaStimulants": [
+        {
+            "ItemClass": "SodaCan_Cola",
+            "StaminaGeneralIncreasePercent": 20.0,
+            "StaminaSleepIncreasePercent": 10.0
+        },
+        {
+            "ItemClass": "SodaCan_Pipsi",
+            "StaminaGeneralIncreasePercent": 20.0,
+            "StaminaSleepIncreasePercent": 10.0
+        }
+    ],
+    "StaminaLiquidStimulants": [
+        {
+            "LiquidId": 2048,
+            "StaminaGeneralIncreasePerLiterPercent": 100.0,
+            "StaminaSleepIncreasePerLiterPercent": -50.0
+        }
+    ],
+    "ComfortablePlaces": [
+        {
+            "ItemClass": "MediumTentClutterCutter",
+            "StaminaGeneralMultiplier": 1.0,
+            "StaminaSleepMultiplier": 2.0
+        },
+        {
+            "ItemClass": "LargeTentClutterCutter",
+            "StaminaGeneralMultiplier": 1.0,
+            "StaminaSleepMultiplier": 2.0
+        }
+    ],
+    "Clothes": [
+        {
+            "ItemClass": "RadarCap_ColorBase",
+            "StaminaGeneralMultiplier": 1.0,
+            "StaminaSleepMultiplier": 1.0
+        }
+    ],
+    "HumanPoweredVehicles": [
+        {
+            "ItemClass": "Bicycle_Base",
+            "StaminaGeneralCostPerSecondPercent": -0.10000000149011612,
+            "StaminaGeneralCostPerSecondAccelerationPercent": -0.5
+        }
+    ],
+    "Houses": []
+}
