@@ -39,16 +39,13 @@
 	<ce folder="mods_ce">
 		<!-- Mod Advance Weapon Scopes -->
 		<file name="Advanced_Weapon_Scopes_types.xml" type="types" />
-		<!-- Mod MMG Storage -->
+		<!-- Mod MMG -->
+		<file name="mmg_clouth_types.xml" type="types" />
 		<file name="mmg_storage_types.xml" type="types" />
 		<!-- Mod SNAFU -->
 		<file name="SNAFU_types.xml" type="types" />
 		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
-		<!-- Mod Tactical Flava -->
-		<file name="TacticalFlava_types.xml" type="types" />
-		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
 		<!-- Mod UnknownGhillieMod_types -->
 		<file name="UnknownGhillieMod_types.xml" type="types" />
     </ce>
-	
 </economycore>
