@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Altar Veiculos Zone",
+  "Position": [
+    8228.70703,
+    469,
+    9029
+  ],
+  "Radius": 300,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}

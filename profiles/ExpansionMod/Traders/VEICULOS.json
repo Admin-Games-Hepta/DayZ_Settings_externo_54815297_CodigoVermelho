@@ -1,0 +1,25 @@
+{
+  "m_Version": 13,
+  "DisplayName": "VEICULOS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Car",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Vehicle_Parts",
+    "Batteries",
+    "Cars",
+    "Liquids"
+  ],
+  "Items": {
+    "seachest": 3,
+    "woodencrate": 3
+  }
+}
