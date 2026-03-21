@@ -13,13 +13,13 @@
   "DisplayCurrencyName": "",
   "UseCategoryOrder": 0,
   "Categories": [
-    "Vehicle_Parts",
     "Batteries",
-    "Cars",
-    "Liquids"
+    "Liquids",
+    "Vehicle_Parts",
+    "Cars"
   ],
   "Items": {
-    "seachest": 3,
-    "woodencrate": 3
+    "seachest": 1,
+    "woodencrate": 1
   }
 }

@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Altar Trading Zone",
+  "Position": [
+    8236.9502,
+    473,
+    9014
+  ],
+  "Radius": 300,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}
