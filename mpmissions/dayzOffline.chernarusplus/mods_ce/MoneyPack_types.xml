@@ -91,10 +91,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="sl_money_bundle_dollar_5000">
-    <nominal>10</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>5</min>
+    <min>0</min>
     <quantmin>10</quantmin>
     <quantmax>30</quantmax>
     <cost>100</cost>
@@ -194,10 +194,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="sl_money_dollar_5000">
-    <nominal>0</nominal>
+    <nominal>10</nominal>
     <lifetime>10800</lifetime>
     <restock>1800</restock>
-    <min>0</min>
+    <min>5</min>
     <quantmin>10</quantmin>
     <quantmax>30</quantmax>
     <cost>100</cost>

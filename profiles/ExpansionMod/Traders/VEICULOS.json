@@ -25,7 +25,8 @@
     "Batteries",
     "Liquids",
     "Vehicle_Parts",
-    "Cars"
+    "Cars",
+    "Exchange"
   ],
   "Items": {
     "seachest": 1,
