@@ -7,7 +7,16 @@
   "RequiredCompletedQuestID": -1,
   "TraderIcon": "Car",
   "Currencies": [
-    "expansionbanknotehryvnia"
+    "sl_money_dollar_1",
+    "sl_money_dollar_10",
+    "sl_money_dollar_100",
+    "sl_money_dollar_1000",
+    "sl_money_dollar_2",
+    "sl_money_dollar_20",
+    "sl_money_dollar_5",
+    "sl_money_dollar_50",
+    "sl_money_dollar_500",
+    "sl_money_dollar_5000"
   ],
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",

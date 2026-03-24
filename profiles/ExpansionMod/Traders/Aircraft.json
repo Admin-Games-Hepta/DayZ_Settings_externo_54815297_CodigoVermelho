@@ -1,23 +1,32 @@
 {
-    "m_Version": 13,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Helicopter",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "UseCategoryOrder": 0,
-    "Categories": [
-        "Helicopters",
-        "Vehicle_Parts:3",
-        "Batteries:3"
-    ],
-    "Items": {
-        "expansionhelicopterbattery": 1
-    }
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Helicopter",
+  "Currencies": [
+    "sl_money_dollar_1",
+    "sl_money_dollar_10",
+    "sl_money_dollar_100",
+    "sl_money_dollar_1000",
+    "sl_money_dollar_2",
+    "sl_money_dollar_20",
+    "sl_money_dollar_5",
+    "sl_money_dollar_50",
+    "sl_money_dollar_500",
+    "sl_money_dollar_5000"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Batteries:3",
+    "Vehicle_Parts:3",
+    "Helicopters"
+  ],
+  "Items": {
+    "expansionhelicopterbattery": 1
+  }
 }

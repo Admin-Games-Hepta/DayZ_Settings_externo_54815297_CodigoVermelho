@@ -42,6 +42,8 @@
 		<!-- Mod MMG -->
 		<file name="mmg_clouth_types.xml" type="types" />
 		<file name="mmg_storage_types.xml" type="types" />
+		<!-- Mod MoneyPack -->
+		<file name="MoneyPack_types.xml" type="types" />
 		<!-- Mod SNAFU -->
 		<file name="SNAFU_types.xml" type="types" />
 		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />

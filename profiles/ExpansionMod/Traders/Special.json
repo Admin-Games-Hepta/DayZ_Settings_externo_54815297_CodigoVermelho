@@ -1,31 +1,40 @@
 {
-    "m_Version": 13,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Grenade",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "UseCategoryOrder": 0,
-    "Categories": [
-        "Explosives_And_Grenades"
-    ],
-    "Items": {
-        "expansionammorpg": 1,
-        "nvgoggles": 1,
-        "nvgheadstrap": 1,
-        "ammo_expansion_m203_sticky_smoke_teargas": 1,
-        "battery9v": 1,
-        "expansionrpg7": 1,
-        "expansionammolaw": 1,
-        "ammo_expansion_m203_sticky_smoke_white": 1,
-        "expansionlaw": 1,
-        "ammo_expansion_m203_smoke_teargas": 1,
-        "rangefinder": 1
-    }
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Grenade",
+  "Currencies": [
+    "sl_money_dollar_1",
+    "sl_money_dollar_10",
+    "sl_money_dollar_100",
+    "sl_money_dollar_1000",
+    "sl_money_dollar_2",
+    "sl_money_dollar_20",
+    "sl_money_dollar_5",
+    "sl_money_dollar_50",
+    "sl_money_dollar_500",
+    "sl_money_dollar_5000"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Explosives_And_Grenades"
+  ],
+  "Items": {
+    "ammo_expansion_m203_smoke_teargas": 1,
+    "ammo_expansion_m203_sticky_smoke_teargas": 1,
+    "ammo_expansion_m203_sticky_smoke_white": 1,
+    "battery9v": 1,
+    "expansionammolaw": 1,
+    "expansionammorpg": 1,
+    "expansionlaw": 1,
+    "expansionrpg7": 1,
+    "nvgheadstrap": 1,
+    "nvgoggles": 1,
+    "rangefinder": 1
+  }
 }

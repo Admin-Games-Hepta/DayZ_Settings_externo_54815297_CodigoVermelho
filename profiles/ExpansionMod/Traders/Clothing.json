@@ -1,24 +1,33 @@
 {
-    "m_Version": 13,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Backpack",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "UseCategoryOrder": 0,
-    "Categories": [
-        "Blouses_And_Suits",
-        "Coats_And_Jackets",
-        "Shirts_And_TShirts",
-        "Skirts_And_Dresses",
-        "Pants_And_Shorts",
-        "Boots_And_Shoes"
-    ],
-    "Items": {}
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "sl_money_dollar_1",
+    "sl_money_dollar_10",
+    "sl_money_dollar_100",
+    "sl_money_dollar_1000",
+    "sl_money_dollar_2",
+    "sl_money_dollar_20",
+    "sl_money_dollar_5",
+    "sl_money_dollar_50",
+    "sl_money_dollar_500",
+    "sl_money_dollar_5000"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Boots_And_Shoes",
+    "Coats_And_Jackets",
+    "Pants_And_Shorts",
+    "Blouses_And_Suits",
+    "Shirts_And_TShirts",
+    "Skirts_And_Dresses"
+  ],
+  "Items": {}
 }

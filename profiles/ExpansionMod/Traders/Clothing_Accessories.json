@@ -1,33 +1,42 @@
 {
-    "m_Version": 13,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Backpack",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "UseCategoryOrder": 0,
-    "Categories": [
-        "Helmets",
-        "Caps",
-        "Hats_And_Hoods",
-        "Armbands",
-        "Backpacks",
-        "Eyewear",
-        "Gloves",
-        "Bandanas",
-        "Masks",
-        "Vests",
-        "Holsters_And_Pouches",
-        "Ghillies",
-        "Belts"
-    ],
-    "Items": {
-        "gasmask_filter": 3
-    }
+  "m_Version": 13,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "sl_money_dollar_1",
+    "sl_money_dollar_10",
+    "sl_money_dollar_100",
+    "sl_money_dollar_1000",
+    "sl_money_dollar_2",
+    "sl_money_dollar_20",
+    "sl_money_dollar_5",
+    "sl_money_dollar_50",
+    "sl_money_dollar_500",
+    "sl_money_dollar_5000"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "UseCategoryOrder": 0,
+  "Categories": [
+    "Masks",
+    "Backpacks",
+    "Armbands",
+    "Eyewear",
+    "Helmets",
+    "Bandanas",
+    "Caps",
+    "Hats_And_Hoods",
+    "Holsters_And_Pouches",
+    "Vests",
+    "Belts",
+    "Ghillies",
+    "Gloves"
+  ],
+  "Items": {
+    "gasmask_filter": 3
+  }
 }
